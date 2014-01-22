@@ -14,9 +14,10 @@
 
 @interface ACOColorSwatch : NSObject
 
-+ (instancetype)colorSwatchFromFileAtURL:(NSURL *)url;
++ (instancetype)colorSwatchFromFileAtURL:(NSURL *)url error:(NSError **)error;
 
 - (instancetype)initWithVersion:(NSUInteger)version entries:(NSArray *)entries;
+
 
 @property (nonatomic, readonly) NSUInteger version;
 @property (nonatomic, readonly) NSArray *entries;

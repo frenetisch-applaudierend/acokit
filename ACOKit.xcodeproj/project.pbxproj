@@ -26,6 +26,23 @@
 		63DCD8BD189073FC000FC071 /* RGB_V2.aco in Resources */ = {isa = PBXBuildFile; fileRef = 63DCD8BB189073FC000FC071 /* RGB_V2.aco */; };
 		63DCD8BE189073FC000FC071 /* RGB_V1.aco in Resources */ = {isa = PBXBuildFile; fileRef = 63DCD8BC189073FC000FC071 /* RGB_V1.aco */; };
 		63DCD8C218907568000FC071 /* ACOColorSwatchTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD8C118907568000FC071 /* ACOColorSwatchTest.m */; };
+		63DCD8C618907D91000FC071 /* ACOColorSwatchParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 63DCD8C418907D91000FC071 /* ACOColorSwatchParser.h */; };
+		63DCD8C718907D91000FC071 /* ACOColorSwatchParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 63DCD8C418907D91000FC071 /* ACOColorSwatchParser.h */; };
+		63DCD8C818907D91000FC071 /* ACOColorSwatchParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD8C518907D91000FC071 /* ACOColorSwatchParser.m */; };
+		63DCD8C918907D91000FC071 /* ACOColorSwatchParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD8C518907D91000FC071 /* ACOColorSwatchParser.m */; };
+		63DCD8CE18907E8E000FC071 /* ACOColorEntryParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 63DCD8CC18907E8E000FC071 /* ACOColorEntryParser.h */; };
+		63DCD8CF18907E8E000FC071 /* ACOColorEntryParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 63DCD8CC18907E8E000FC071 /* ACOColorEntryParser.h */; };
+		63DCD8D018907E8E000FC071 /* ACOColorEntryParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD8CD18907E8E000FC071 /* ACOColorEntryParser.m */; };
+		63DCD8D118907E8E000FC071 /* ACOColorEntryParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD8CD18907E8E000FC071 /* ACOColorEntryParser.m */; };
+		63DCD8D318908099000FC071 /* ACOColorSwatchParserTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD8D218908099000FC071 /* ACOColorSwatchParserTest.m */; };
+		63DCD8D91890838E000FC071 /* ACOParserError.h in Headers */ = {isa = PBXBuildFile; fileRef = 63DCD8D71890838E000FC071 /* ACOParserError.h */; };
+		63DCD8DA1890838E000FC071 /* ACOParserError.h in Headers */ = {isa = PBXBuildFile; fileRef = 63DCD8D71890838E000FC071 /* ACOParserError.h */; };
+		63DCD8DB1890838E000FC071 /* ACOParserError.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD8D81890838E000FC071 /* ACOParserError.m */; };
+		63DCD8DC1890838E000FC071 /* ACOParserError.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD8D81890838E000FC071 /* ACOParserError.m */; };
+		63DCD8DD18908392000FC071 /* NSInputStream+ACOParsing.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD8D5189081C9000FC071 /* NSInputStream+ACOParsing.m */; };
+		63DCD8DE18908394000FC071 /* NSInputStream+ACOParsing.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD8D5189081C9000FC071 /* NSInputStream+ACOParsing.m */; };
+		63DCD8DF18908396000FC071 /* NSInputStream+ACOParsing.h in Headers */ = {isa = PBXBuildFile; fileRef = 63DCD8D4189081C9000FC071 /* NSInputStream+ACOParsing.h */; };
+		63DCD8E018908397000FC071 /* NSInputStream+ACOParsing.h in Headers */ = {isa = PBXBuildFile; fileRef = 63DCD8D4189081C9000FC071 /* NSInputStream+ACOParsing.h */; };
 		97DBC34669FB4347AA37AAAA /* libPods-acokit-tests-ios.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 242189CE04934AADB9E81CE8 /* libPods-acokit-tests-ios.a */; };
 /* End PBXBuildFile section */
 
@@ -60,6 +77,15 @@
 		63DCD8BB189073FC000FC071 /* RGB_V2.aco */ = {isa = PBXFileReference; lastKnownFileType = file; path = RGB_V2.aco; sourceTree = "<group>"; };
 		63DCD8BC189073FC000FC071 /* RGB_V1.aco */ = {isa = PBXFileReference; lastKnownFileType = file; path = RGB_V1.aco; sourceTree = "<group>"; };
 		63DCD8C118907568000FC071 /* ACOColorSwatchTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ACOColorSwatchTest.m; sourceTree = "<group>"; };
+		63DCD8C418907D91000FC071 /* ACOColorSwatchParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ACOColorSwatchParser.h; sourceTree = "<group>"; };
+		63DCD8C518907D91000FC071 /* ACOColorSwatchParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ACOColorSwatchParser.m; sourceTree = "<group>"; };
+		63DCD8CC18907E8E000FC071 /* ACOColorEntryParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ACOColorEntryParser.h; sourceTree = "<group>"; };
+		63DCD8CD18907E8E000FC071 /* ACOColorEntryParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ACOColorEntryParser.m; sourceTree = "<group>"; };
+		63DCD8D218908099000FC071 /* ACOColorSwatchParserTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ACOColorSwatchParserTest.m; sourceTree = "<group>"; };
+		63DCD8D4189081C9000FC071 /* NSInputStream+ACOParsing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSInputStream+ACOParsing.h"; sourceTree = "<group>"; };
+		63DCD8D5189081C9000FC071 /* NSInputStream+ACOParsing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSInputStream+ACOParsing.m"; sourceTree = "<group>"; };
+		63DCD8D71890838E000FC071 /* ACOParserError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ACOParserError.h; sourceTree = "<group>"; };
+		63DCD8D81890838E000FC071 /* ACOParserError.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ACOParserError.m; sourceTree = "<group>"; };
 		B7B292C29BCE4C83AED9EFFB /* Pods-acokit-tests-ios.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-acokit-tests-ios.xcconfig"; path = "Pods/Pods-acokit-tests-ios.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -124,14 +150,8 @@
 			children = (
 				63DCD872189057B1000FC071 /* Prefix.pch */,
 				63DCD873189057B1000FC071 /* ACOKit.h */,
-				63DCD8971890614D000FC071 /* ACOColorSwatch.h */,
-				63DCD8981890614D000FC071 /* ACOColorSwatch.m */,
-				63DCD89A18906182000FC071 /* ACOColorSwatch+UIKit.h */,
-				63DCD89B18906182000FC071 /* ACOColorSwatch+UIKit.m */,
-				63DCD8A0189063E6000FC071 /* ACOColorSwatch+AppKit.h */,
-				63DCD8A1189063E6000FC071 /* ACOColorSwatch+AppKit.m */,
-				63DCD89D189062D7000FC071 /* ACOColorEntry.h */,
-				63DCD89E189062D7000FC071 /* ACOColorEntry.m */,
+				63DCD8CA18907D99000FC071 /* Public API */,
+				63DCD8CB18907DAC000FC071 /* Parsing */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -140,7 +160,7 @@
 			isa = PBXGroup;
 			children = (
 				63DCD89518905929000FC071 /* Integration Tests */,
-				63DCD8C018907546000FC071 /* Unit Test */,
+				63DCD8C018907546000FC071 /* Unit Tests */,
 				63DCD8BF18907401000FC071 /* Sample Files */,
 				63DCD8961890593D000FC071 /* Supporting Files */,
 			);
@@ -173,12 +193,43 @@
 			name = "Sample Files";
 			sourceTree = "<group>";
 		};
-		63DCD8C018907546000FC071 /* Unit Test */ = {
+		63DCD8C018907546000FC071 /* Unit Tests */ = {
 			isa = PBXGroup;
 			children = (
 				63DCD8C118907568000FC071 /* ACOColorSwatchTest.m */,
+				63DCD8D218908099000FC071 /* ACOColorSwatchParserTest.m */,
 			);
-			name = "Unit Test";
+			name = "Unit Tests";
+			sourceTree = "<group>";
+		};
+		63DCD8CA18907D99000FC071 /* Public API */ = {
+			isa = PBXGroup;
+			children = (
+				63DCD8971890614D000FC071 /* ACOColorSwatch.h */,
+				63DCD8981890614D000FC071 /* ACOColorSwatch.m */,
+				63DCD89A18906182000FC071 /* ACOColorSwatch+UIKit.h */,
+				63DCD89B18906182000FC071 /* ACOColorSwatch+UIKit.m */,
+				63DCD8A0189063E6000FC071 /* ACOColorSwatch+AppKit.h */,
+				63DCD8A1189063E6000FC071 /* ACOColorSwatch+AppKit.m */,
+				63DCD89D189062D7000FC071 /* ACOColorEntry.h */,
+				63DCD89E189062D7000FC071 /* ACOColorEntry.m */,
+			);
+			name = "Public API";
+			sourceTree = "<group>";
+		};
+		63DCD8CB18907DAC000FC071 /* Parsing */ = {
+			isa = PBXGroup;
+			children = (
+				63DCD8C418907D91000FC071 /* ACOColorSwatchParser.h */,
+				63DCD8C518907D91000FC071 /* ACOColorSwatchParser.m */,
+				63DCD8CC18907E8E000FC071 /* ACOColorEntryParser.h */,
+				63DCD8CD18907E8E000FC071 /* ACOColorEntryParser.m */,
+				63DCD8D4189081C9000FC071 /* NSInputStream+ACOParsing.h */,
+				63DCD8D5189081C9000FC071 /* NSInputStream+ACOParsing.m */,
+				63DCD8D71890838E000FC071 /* ACOParserError.h */,
+				63DCD8D81890838E000FC071 /* ACOParserError.m */,
+			);
+			name = Parsing;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -189,9 +240,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				63DCD8BA18906485000FC071 /* ACOColorSwatch+AppKit.h in Headers */,
+				63DCD8C718907D91000FC071 /* ACOColorSwatchParser.h in Headers */,
 				63DCD8B718906473000FC071 /* ACOColorSwatch.h in Headers */,
 				63DCD8B818906473000FC071 /* ACOColorEntry.h in Headers */,
+				63DCD8CF18907E8E000FC071 /* ACOColorEntryParser.h in Headers */,
 				63DCD8B418906468000FC071 /* ACOKit.h in Headers */,
+				63DCD8DA1890838E000FC071 /* ACOParserError.h in Headers */,
+				63DCD8DF18908396000FC071 /* NSInputStream+ACOParsing.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -200,9 +255,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				63DCD8B518906472000FC071 /* ACOColorSwatch.h in Headers */,
+				63DCD8C618907D91000FC071 /* ACOColorSwatchParser.h in Headers */,
 				63DCD8B91890647C000FC071 /* ACOColorSwatch+UIKit.h in Headers */,
 				63DCD8B618906472000FC071 /* ACOColorEntry.h in Headers */,
+				63DCD8CE18907E8E000FC071 /* ACOColorEntryParser.h in Headers */,
 				63DCD8B318906468000FC071 /* ACOKit.h in Headers */,
+				63DCD8D91890838E000FC071 /* ACOParserError.h in Headers */,
+				63DCD8E018908397000FC071 /* NSInputStream+ACOParsing.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -341,9 +400,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63DCD8D018907E8E000FC071 /* ACOColorEntryParser.m in Sources */,
 				63DCD89F189062D7000FC071 /* ACOColorEntry.m in Sources */,
+				63DCD8DE18908394000FC071 /* NSInputStream+ACOParsing.m in Sources */,
 				63DCD8B018906433000FC071 /* ACOColorSwatch+UIKit.m in Sources */,
+				63DCD8C818907D91000FC071 /* ACOColorSwatchParser.m in Sources */,
 				63DCD8991890614D000FC071 /* ACOColorSwatch.m in Sources */,
+				63DCD8DB1890838E000FC071 /* ACOParserError.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -351,6 +414,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63DCD8D318908099000FC071 /* ACOColorSwatchParserTest.m in Sources */,
 				63DCD88B189057B2000FC071 /* ACOKitTests_UIKit.m in Sources */,
 				63DCD8C218907568000FC071 /* ACOColorSwatchTest.m in Sources */,
 			);
@@ -360,9 +424,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63DCD8D118907E8E000FC071 /* ACOColorEntryParser.m in Sources */,
 				63DCD8A61890640F000FC071 /* ACOColorSwatch+AppKit.m in Sources */,
+				63DCD8DD18908392000FC071 /* NSInputStream+ACOParsing.m in Sources */,
 				63DCD8A71890640F000FC071 /* ACOColorEntry.m in Sources */,
+				63DCD8C918907D91000FC071 /* ACOColorSwatchParser.m in Sources */,
 				63DCD8A81890640F000FC071 /* ACOColorSwatch.m in Sources */,
+				63DCD8DC1890838E000FC071 /* ACOParserError.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

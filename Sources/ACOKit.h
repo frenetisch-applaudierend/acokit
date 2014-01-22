@@ -9,7 +9,6 @@
 #import <Foundation/Foundation.h>
 #import <TargetConditionals.h>
 
-
 #import "ACOColorSwatch.h"
 #import "ACOColorEntry.h"
 

@@ -8,15 +8,16 @@
 
 #import "ACOColorSwatch.h"
 #import "ACOColorEntry.h"
+#import "ACOColorSwatchParser.h"
 
 
 @implementation ACOColorSwatch
 
 #pragma mark - Initialization
 
-+ (instancetype)colorSwatchFromFileAtURL:(NSURL *)url
++ (instancetype)colorSwatchFromFileAtURL:(NSURL *)url error:(NSError **)error
 {
-    return nil;
+    return [[ACOColorSwatchParser defaultParser] parseColorSwatchFromFileAtURL:url error:error];
 }
 
 - (instancetype)initWithVersion:(NSUInteger)version entries:(NSArray *)entries
