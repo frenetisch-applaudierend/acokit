@@ -7,7 +7,14 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <TargetConditionals.h>
 
-@interface ACOKit : NSObject
 
-@end
+#import "ACOColorSwatch.h"
+#import "ACOColorEntry.h"
+
+#ifdef TARGET_OS_IPHONE
+    #import "ACOColorSwatch+UIKit.h"
+#else
+    #import "ACOColorSwatch+AppKit.h"
+#endif

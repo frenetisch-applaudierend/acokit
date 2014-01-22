@@ -7,10 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		63DCD874189057B1000FC071 /* ACOKit.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 63DCD873189057B1000FC071 /* ACOKit.h */; };
-		63DCD876189057B2000FC071 /* ACOKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD875189057B2000FC071 /* ACOKit.m */; };
 		63DCD883189057B2000FC071 /* libacokit-ios.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 63DCD86B189057B1000FC071 /* libacokit-ios.a */; };
-		63DCD88B189057B2000FC071 /* ACOKitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD88A189057B2000FC071 /* ACOKitTests.m */; };
+		63DCD88B189057B2000FC071 /* ACOKitTests_UIKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD88A189057B2000FC071 /* ACOKitTests_UIKit.m */; };
+		63DCD8991890614D000FC071 /* ACOColorSwatch.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD8981890614D000FC071 /* ACOColorSwatch.m */; };
+		63DCD89F189062D7000FC071 /* ACOColorEntry.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD89E189062D7000FC071 /* ACOColorEntry.m */; };
+		63DCD8A61890640F000FC071 /* ACOColorSwatch+AppKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD8A1189063E6000FC071 /* ACOColorSwatch+AppKit.m */; };
+		63DCD8A71890640F000FC071 /* ACOColorEntry.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD89E189062D7000FC071 /* ACOColorEntry.m */; };
+		63DCD8A81890640F000FC071 /* ACOColorSwatch.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD8981890614D000FC071 /* ACOColorSwatch.m */; };
+		63DCD8B018906433000FC071 /* ACOColorSwatch+UIKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD89B18906182000FC071 /* ACOColorSwatch+UIKit.m */; };
+		63DCD8B318906468000FC071 /* ACOKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 63DCD873189057B1000FC071 /* ACOKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		63DCD8B418906468000FC071 /* ACOKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 63DCD873189057B1000FC071 /* ACOKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		63DCD8B518906472000FC071 /* ACOColorSwatch.h in Headers */ = {isa = PBXBuildFile; fileRef = 63DCD8971890614D000FC071 /* ACOColorSwatch.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		63DCD8B618906472000FC071 /* ACOColorEntry.h in Headers */ = {isa = PBXBuildFile; fileRef = 63DCD89D189062D7000FC071 /* ACOColorEntry.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		63DCD8B718906473000FC071 /* ACOColorSwatch.h in Headers */ = {isa = PBXBuildFile; fileRef = 63DCD8971890614D000FC071 /* ACOColorSwatch.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		63DCD8B818906473000FC071 /* ACOColorEntry.h in Headers */ = {isa = PBXBuildFile; fileRef = 63DCD89D189062D7000FC071 /* ACOColorEntry.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		63DCD8B91890647C000FC071 /* ACOColorSwatch+UIKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 63DCD89A18906182000FC071 /* ACOColorSwatch+UIKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		63DCD8BA18906485000FC071 /* ACOColorSwatch+AppKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 63DCD8A0189063E6000FC071 /* ACOColorSwatch+AppKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		63DCD8BD189073FC000FC071 /* RGB_V2.aco in Resources */ = {isa = PBXBuildFile; fileRef = 63DCD8BB189073FC000FC071 /* RGB_V2.aco */; };
+		63DCD8BE189073FC000FC071 /* RGB_V1.aco in Resources */ = {isa = PBXBuildFile; fileRef = 63DCD8BC189073FC000FC071 /* RGB_V1.aco */; };
+		63DCD8C218907568000FC071 /* ACOColorSwatchTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD8C118907568000FC071 /* ACOColorSwatchTest.m */; };
+		97DBC34669FB4347AA37AAAA /* libPods-acokit-tests-ios.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 242189CE04934AADB9E81CE8 /* libPods-acokit-tests-ios.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -23,28 +39,28 @@
 		};
 /* End PBXContainerItemProxy section */
 
-/* Begin PBXCopyFilesBuildPhase section */
-		63DCD869189057B1000FC071 /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "include/$(PRODUCT_NAME)";
-			dstSubfolderSpec = 16;
-			files = (
-				63DCD874189057B1000FC071 /* ACOKit.h in CopyFiles */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXCopyFilesBuildPhase section */
-
 /* Begin PBXFileReference section */
+		242189CE04934AADB9E81CE8 /* libPods-acokit-tests-ios.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-acokit-tests-ios.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63DCD86B189057B1000FC071 /* libacokit-ios.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libacokit-ios.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63DCD872189057B1000FC071 /* Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
 		63DCD873189057B1000FC071 /* ACOKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ACOKit.h; sourceTree = "<group>"; };
-		63DCD875189057B2000FC071 /* ACOKit.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ACOKit.m; sourceTree = "<group>"; };
 		63DCD87B189057B2000FC071 /* acokit-tests-ios.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "acokit-tests-ios.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63DCD886189057B2000FC071 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		63DCD88A189057B2000FC071 /* ACOKitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ACOKitTests.m; sourceTree = "<group>"; };
+		63DCD88A189057B2000FC071 /* ACOKitTests_UIKit.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ACOKitTests_UIKit.m; sourceTree = "<group>"; };
 		63DCD8941890591A000FC071 /* Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
+		63DCD8971890614D000FC071 /* ACOColorSwatch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ACOColorSwatch.h; sourceTree = "<group>"; };
+		63DCD8981890614D000FC071 /* ACOColorSwatch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ACOColorSwatch.m; sourceTree = "<group>"; };
+		63DCD89A18906182000FC071 /* ACOColorSwatch+UIKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ACOColorSwatch+UIKit.h"; sourceTree = "<group>"; };
+		63DCD89B18906182000FC071 /* ACOColorSwatch+UIKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ACOColorSwatch+UIKit.m"; sourceTree = "<group>"; };
+		63DCD89D189062D7000FC071 /* ACOColorEntry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ACOColorEntry.h; sourceTree = "<group>"; };
+		63DCD89E189062D7000FC071 /* ACOColorEntry.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ACOColorEntry.m; sourceTree = "<group>"; };
+		63DCD8A0189063E6000FC071 /* ACOColorSwatch+AppKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ACOColorSwatch+AppKit.h"; sourceTree = "<group>"; };
+		63DCD8A1189063E6000FC071 /* ACOColorSwatch+AppKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ACOColorSwatch+AppKit.m"; sourceTree = "<group>"; };
+		63DCD8AF1890640F000FC071 /* libacokit-ios copy.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libacokit-ios copy.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		63DCD8BB189073FC000FC071 /* RGB_V2.aco */ = {isa = PBXFileReference; lastKnownFileType = file; path = RGB_V2.aco; sourceTree = "<group>"; };
+		63DCD8BC189073FC000FC071 /* RGB_V1.aco */ = {isa = PBXFileReference; lastKnownFileType = file; path = RGB_V1.aco; sourceTree = "<group>"; };
+		63DCD8C118907568000FC071 /* ACOColorSwatchTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ACOColorSwatchTest.m; sourceTree = "<group>"; };
+		B7B292C29BCE4C83AED9EFFB /* Pods-acokit-tests-ios.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-acokit-tests-ios.xcconfig"; path = "Pods/Pods-acokit-tests-ios.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,18 +76,36 @@
 			buildActionMask = 2147483647;
 			files = (
 				63DCD883189057B2000FC071 /* libacokit-ios.a in Frameworks */,
+				97DBC34669FB4347AA37AAAA /* libPods-acokit-tests-ios.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		63DCD8A91890640F000FC071 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3136C2A3944A4AEFB7DCDF0D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				242189CE04934AADB9E81CE8 /* libPods-acokit-tests-ios.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		63DCD862189057B1000FC071 = {
 			isa = PBXGroup;
 			children = (
 				63DCD870189057B1000FC071 /* Sources */,
 				63DCD884189057B2000FC071 /* Tests */,
+				3136C2A3944A4AEFB7DCDF0D /* Frameworks */,
 				63DCD86C189057B1000FC071 /* Products */,
+				B7B292C29BCE4C83AED9EFFB /* Pods-acokit-tests-ios.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -80,6 +114,7 @@
 			children = (
 				63DCD86B189057B1000FC071 /* libacokit-ios.a */,
 				63DCD87B189057B2000FC071 /* acokit-tests-ios.xctest */,
+				63DCD8AF1890640F000FC071 /* libacokit-ios copy.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -87,25 +122,26 @@
 		63DCD870189057B1000FC071 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				63DCD872189057B1000FC071 /* Prefix.pch */,
 				63DCD873189057B1000FC071 /* ACOKit.h */,
-				63DCD875189057B2000FC071 /* ACOKit.m */,
-				63DCD871189057B1000FC071 /* Supporting Files */,
+				63DCD8971890614D000FC071 /* ACOColorSwatch.h */,
+				63DCD8981890614D000FC071 /* ACOColorSwatch.m */,
+				63DCD89A18906182000FC071 /* ACOColorSwatch+UIKit.h */,
+				63DCD89B18906182000FC071 /* ACOColorSwatch+UIKit.m */,
+				63DCD8A0189063E6000FC071 /* ACOColorSwatch+AppKit.h */,
+				63DCD8A1189063E6000FC071 /* ACOColorSwatch+AppKit.m */,
+				63DCD89D189062D7000FC071 /* ACOColorEntry.h */,
+				63DCD89E189062D7000FC071 /* ACOColorEntry.m */,
 			);
 			path = Sources;
-			sourceTree = "<group>";
-		};
-		63DCD871189057B1000FC071 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				63DCD872189057B1000FC071 /* Prefix.pch */,
-			);
-			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 		63DCD884189057B2000FC071 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
 				63DCD89518905929000FC071 /* Integration Tests */,
+				63DCD8C018907546000FC071 /* Unit Test */,
+				63DCD8BF18907401000FC071 /* Sample Files */,
 				63DCD8961890593D000FC071 /* Supporting Files */,
 			);
 			path = Tests;
@@ -114,7 +150,7 @@
 		63DCD89518905929000FC071 /* Integration Tests */ = {
 			isa = PBXGroup;
 			children = (
-				63DCD88A189057B2000FC071 /* ACOKitTests.m */,
+				63DCD88A189057B2000FC071 /* ACOKitTests_UIKit.m */,
 			);
 			name = "Integration Tests";
 			sourceTree = "<group>";
@@ -128,7 +164,49 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		63DCD8BF18907401000FC071 /* Sample Files */ = {
+			isa = PBXGroup;
+			children = (
+				63DCD8BC189073FC000FC071 /* RGB_V1.aco */,
+				63DCD8BB189073FC000FC071 /* RGB_V2.aco */,
+			);
+			name = "Sample Files";
+			sourceTree = "<group>";
+		};
+		63DCD8C018907546000FC071 /* Unit Test */ = {
+			isa = PBXGroup;
+			children = (
+				63DCD8C118907568000FC071 /* ACOColorSwatchTest.m */,
+			);
+			name = "Unit Test";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		63DCD8B118906456000FC071 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63DCD8BA18906485000FC071 /* ACOColorSwatch+AppKit.h in Headers */,
+				63DCD8B718906473000FC071 /* ACOColorSwatch.h in Headers */,
+				63DCD8B818906473000FC071 /* ACOColorEntry.h in Headers */,
+				63DCD8B418906468000FC071 /* ACOKit.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		63DCD8B218906463000FC071 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63DCD8B518906472000FC071 /* ACOColorSwatch.h in Headers */,
+				63DCD8B91890647C000FC071 /* ACOColorSwatch+UIKit.h in Headers */,
+				63DCD8B618906472000FC071 /* ACOColorEntry.h in Headers */,
+				63DCD8B318906468000FC071 /* ACOKit.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
 		63DCD86A189057B1000FC071 /* acokit-ios */ = {
@@ -137,7 +215,7 @@
 			buildPhases = (
 				63DCD867189057B1000FC071 /* Sources */,
 				63DCD868189057B1000FC071 /* Frameworks */,
-				63DCD869189057B1000FC071 /* CopyFiles */,
+				63DCD8B218906463000FC071 /* Headers */,
 			);
 			buildRules = (
 			);
@@ -152,9 +230,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 63DCD891189057B2000FC071 /* Build configuration list for PBXNativeTarget "acokit-tests-ios" */;
 			buildPhases = (
+				56EED2B465564758917D7DBE /* Check Pods Manifest.lock */,
 				63DCD877189057B2000FC071 /* Sources */,
 				63DCD878189057B2000FC071 /* Frameworks */,
 				63DCD879189057B2000FC071 /* Resources */,
+				1BA888F41AAD409F8F0A247F /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -165,6 +245,23 @@
 			productName = ACOKitTests;
 			productReference = 63DCD87B189057B2000FC071 /* acokit-tests-ios.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		63DCD8A31890640F000FC071 /* acokit-osx */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 63DCD8AC1890640F000FC071 /* Build configuration list for PBXNativeTarget "acokit-osx" */;
+			buildPhases = (
+				63DCD8A41890640F000FC071 /* Sources */,
+				63DCD8A91890640F000FC071 /* Frameworks */,
+				63DCD8B118906456000FC071 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "acokit-osx";
+			productName = ACOKit;
+			productReference = 63DCD8AF1890640F000FC071 /* libacokit-ios copy.a */;
+			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
 
@@ -188,6 +285,7 @@
 			projectRoot = "";
 			targets = (
 				63DCD86A189057B1000FC071 /* acokit-ios */,
+				63DCD8A31890640F000FC071 /* acokit-osx */,
 				63DCD87A189057B2000FC071 /* acokit-tests-ios */,
 			);
 		};
@@ -198,17 +296,54 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63DCD8BE189073FC000FC071 /* RGB_V1.aco in Resources */,
+				63DCD8BD189073FC000FC071 /* RGB_V2.aco in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1BA888F41AAD409F8F0A247F /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-acokit-tests-ios-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		56EED2B465564758917D7DBE /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		63DCD867189057B1000FC071 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63DCD876189057B2000FC071 /* ACOKit.m in Sources */,
+				63DCD89F189062D7000FC071 /* ACOColorEntry.m in Sources */,
+				63DCD8B018906433000FC071 /* ACOColorSwatch+UIKit.m in Sources */,
+				63DCD8991890614D000FC071 /* ACOColorSwatch.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -216,7 +351,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63DCD88B189057B2000FC071 /* ACOKitTests.m in Sources */,
+				63DCD88B189057B2000FC071 /* ACOKitTests_UIKit.m in Sources */,
+				63DCD8C218907568000FC071 /* ACOColorSwatchTest.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		63DCD8A41890640F000FC071 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63DCD8A61890640F000FC071 /* ACOColorSwatch+AppKit.m in Sources */,
+				63DCD8A71890640F000FC071 /* ACOColorEntry.m in Sources */,
+				63DCD8A81890640F000FC071 /* ACOColorSwatch.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -235,7 +381,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -267,7 +412,6 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				ONLY_ACTIVE_ARCH = YES;
-				SDKROOT = iphoneos;
 			};
 			name = Debug;
 		};
@@ -275,7 +419,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -300,7 +443,6 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
-				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -308,11 +450,14 @@
 		63DCD88F189057B2000FC071 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				DSTROOT = /tmp/ACOKit.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Sources/Prefix.pch;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = include/ACOKit;
+				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 			};
 			name = Debug;
@@ -320,17 +465,21 @@
 		63DCD890189057B2000FC071 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				DSTROOT = /tmp/ACOKit.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Sources/Prefix.pch;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = include/ACOKit;
+				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 			};
 			name = Release;
 		};
 		63DCD892189057B2000FC071 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B7B292C29BCE4C83AED9EFFB /* Pods-acokit-tests-ios.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				FRAMEWORK_SEARCH_PATHS = (
@@ -344,14 +493,26 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+				);
 				INFOPLIST_FILE = Tests/Info.plist;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-framework",
+					XCTest,
+					"-ObjC",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
 				WRAPPER_EXTENSION = xctest;
 			};
 			name = Debug;
 		};
 		63DCD893189057B2000FC071 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B7B292C29BCE4C83AED9EFFB /* Pods-acokit-tests-ios.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				FRAMEWORK_SEARCH_PATHS = (
@@ -361,9 +522,50 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Tests/Prefix.pch;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+				);
 				INFOPLIST_FILE = Tests/Info.plist;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-framework",
+					XCTest,
+					"-ObjC",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
 				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+		63DCD8AD1890640F000FC071 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				DSTROOT = /tmp/ACOKit.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Sources/Prefix.pch;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "acokit-ios copy";
+				PUBLIC_HEADERS_FOLDER_PATH = include/ACOKit;
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		63DCD8AE1890640F000FC071 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				DSTROOT = /tmp/ACOKit.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Sources/Prefix.pch;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "acokit-ios copy";
+				PUBLIC_HEADERS_FOLDER_PATH = include/ACOKit;
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
 			};
 			name = Release;
 		};
@@ -393,6 +595,15 @@
 			buildConfigurations = (
 				63DCD892189057B2000FC071 /* Debug */,
 				63DCD893189057B2000FC071 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		63DCD8AC1890640F000FC071 /* Build configuration list for PBXNativeTarget "acokit-osx" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				63DCD8AD1890640F000FC071 /* Debug */,
+				63DCD8AE1890640F000FC071 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
