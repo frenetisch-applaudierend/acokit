@@ -11,8 +11,8 @@
 #import "ACOKit.h"
 
 
-@interface ACOKitTests : XCTestCase @end
-@implementation ACOKitTests
+@interface ACOKitTests_UIKit : XCTestCase @end
+@implementation ACOKitTests_UIKit
 
 - (void)testGettingColorsByIndex
 {

@@ -12,7 +12,7 @@
 #import "ACOColorSwatch.h"
 #import "ACOColorEntry.h"
 
-#ifdef TARGET_OS_IPHONE
+#if TARGET_OS_IPHONE
     #import "ACOColorSwatch+UIKit.h"
 #else
     #import "ACOColorSwatch+AppKit.h"

@@ -15,8 +15,22 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "63DCD8A31890640F000FC071"
-               BuildableName = "libacokit-ios copy.a"
+               BuildableName = "libacokit-osx.a"
                BlueprintName = "acokit-osx"
+               ReferencedContainer = "container:ACOKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "63955F6C18916DF800168006"
+               BuildableName = "acokit-tests-osx.xctest"
+               BlueprintName = "acokit-tests-osx"
                ReferencedContainer = "container:ACOKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,6 +42,16 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "63955F6C18916DF800168006"
+               BuildableName = "acokit-tests-osx.xctest"
+               BlueprintName = "acokit-tests-osx"
+               ReferencedContainer = "container:ACOKit.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
