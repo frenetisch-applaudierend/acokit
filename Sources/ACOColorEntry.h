@@ -12,6 +12,9 @@
 
 /**
  * Supported color spaces for the ACO file format.
+ *
+ * Other values are possible, but can't really be used
+ * because the color format is proprietary.
  */
 typedef NS_ENUM(uint16_t, ACOColorSpace) {
     ACOColorSpaceRGB       = 0,
@@ -23,6 +26,9 @@ typedef NS_ENUM(uint16_t, ACOColorSpace) {
 
 /**
  * Color data structure.
+ *
+ * Supports reading/writing either raw color data or fields specific
+ * to the supported color spaces.
  */
 #pragma pack(2)
 typedef union {
@@ -45,14 +51,31 @@ extern ACOColorData ACOColorDataWithLab(uint16_t lightness, uint16_t a_chrominan
 extern ACOColorData ACOColorDataWithGrayscale(uint16_t grayValue);
 
 
+/**
+ * An entry in a color swatch file.
+ *
+ * Consists of color space, color data and an optional name (version 2 files only).
+ * An entry can generate CGColorSpaceRef/CGColorRef objects from its data.
+ */
 @interface ACOColorEntry : NSObject
 
+/**
+ * Initialize an entry with a name, color space and color data.
+ *
+ * @param name The name for this color entry (only in version 2 files)
+ * @param colorSpace The color space identifier for this entry. You can also pass an
+ *                   unsupported/unknown type, but the CGColor/CGColorSpace are not
+ *                   supported in this case and will throw an exception.
+ * @param colorData  The color data for the specified color space
+ *
+ * @return An initialized ACOColorEntry object.
+ */
 - (instancetype)initWithName:(NSString *)name colorSpace:(ACOColorSpace)colorSpace colorData:(ACOColorData)colorData;
 
-@property (nonatomic, readonly) NSString *name;
-@property (nonatomic, readonly) ACOColorSpace colorSpace;
-@property (nonatomic, readonly) ACOColorData colorData;
-@property (nonatomic, readonly) CGColorSpaceRef CGColorSpace;
-@property (nonatomic, readonly) CGColorRef CGColor;
+@property (nonatomic, readonly) NSString *name;               /// The name for this color (version 2 only)
+@property (nonatomic, readonly) ACOColorSpace colorSpace;     /// The color space type
+@property (nonatomic, readonly) ACOColorData colorData;       /// The color data
+@property (nonatomic, readonly) CGColorSpaceRef CGColorSpace; /// The CGColorSpaceRef matching the type in colorSpace
+@property (nonatomic, readonly) CGColorRef CGColor;           /// The CGColorRef created from the color space and color data
 
 @end
