@@ -9,4 +9,5 @@
 
     #define EXP_SHORTHAND
     #import <Expecta/Expecta.h>
+    #import <Mocka/Mocka.h>
 #endif

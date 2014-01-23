@@ -7,6 +7,7 @@
 //
 
 #import "ACOColorSwatchParser.h"
+#import "ACOColorEntryParser.h"
 #import "ACOColorSwatch.h"
 #import "ACOParserError.h"
 #import "NSInputStream+ACOParsing.h"
@@ -14,15 +15,28 @@
 
 @implementation ACOColorSwatchParser
 
+#pragma mark - Initialization
+
 + (instancetype)defaultParser
 {
     static dispatch_once_t onceToken;
     static ACOColorSwatchParser *parser;
     dispatch_once(&onceToken, ^{
-        parser = [[ACOColorSwatchParser alloc] init];
+        parser = [[ACOColorSwatchParser alloc] initWithEntryParser:[[ACOColorEntryParser alloc] init]];
     });
     return parser;
 }
+
+- (instancetype)initWithEntryParser:(ACOColorEntryParser *)entryParser
+{
+    if ((self = [super init])) {
+        _entryParser = entryParser;
+    }
+    return self;
+}
+
+
+#pragma mark - Parsing
 
 - (ACOColorSwatch *)parseColorSwatchFromFileAtURL:(NSURL *)fileURL error:(NSError **)error
 {
@@ -33,7 +47,16 @@
 
 - (ACOColorSwatch *)parseColorSwatchFromStream:(NSInputStream *)stream error:(NSError **)error
 {
-    return [self parseColorSwatchOfVersion:1 fromStream:stream error:error];
+    ACOColorSwatch *version1 = [self parseColorSwatchOfVersion:1 fromStream:stream error:error];
+    if (version1 == nil) {
+        return nil;
+    }
+    
+    if ([stream hasBytesAvailable]) {
+        return [self parseColorSwatchOfVersion:2 fromStream:stream error:error];
+    } else {
+        return version1;
+    }
 }
 
 - (ACOColorSwatch *)parseColorSwatchOfVersion:(NSUInteger)expected fromStream:(NSInputStream *)stream error:(NSError **)error
@@ -49,7 +72,16 @@
         return nil;
     }
     
-    return [[ACOColorSwatch alloc] initWithVersion:version entries:@[]];
+    NSMutableArray *entries = [NSMutableArray array];
+    for (uint16_t i = 0; i < count; i++) {
+        ACOColorEntry *entry = [self.entryParser parseColorEntryWithVersion:version fromStream:stream error:error];
+        if (entry == nil) {
+            return nil;
+        }
+        [entries addObject:entry];
+    }
+    
+    return [[ACOColorSwatch alloc] initWithVersion:version entries:entries];
 }
 
 @end

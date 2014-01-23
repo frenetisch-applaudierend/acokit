@@ -1,10 +1,19 @@
 PODS:
   - Expecta (0.2.3)
+  - Mocka (0.6.1)
 
 DEPENDENCIES:
   - Expecta (~> 0.2)
+  - Mocka (from `git@bitbucket.org:foensi/mocka.git`, commit `HEAD`, branch `develop`)
+
+EXTERNAL SOURCES:
+  Mocka:
+    :branch: develop
+    :commit: :HEAD
+    :git: git@bitbucket.org:foensi/mocka.git
 
 SPEC CHECKSUMS:
   Expecta: dbc4a27fabb853bdd2e907e33f11ee43a9a47d0c
+  Mocka: 195cbfe052f52f0c3a73a1b7f0f5c629c2e65624
 
 COCOAPODS: 0.29.0

@@ -10,142 +10,258 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
-		<key>016325A5586C405D88CB0C7F</key>
+		<key>02D4FF6053A44838B5B3C4B7</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>467E1CA9F9C5462498CB5F65</string>
+				<string>6D9A8754B9234C1DA23927C8</string>
+				<string>30B21378198645DB96E3314E</string>
+				<string>7C778F3D127640D883928139</string>
+				<string>B5C4D52ED1A5438182C97A29</string>
+				<string>9F39FBE27DD44D0EAC568322</string>
+				<string>A59D30A9996342859AD4D670</string>
+				<string>E7EF3F3C5BC644FEBF0A9FE0</string>
+				<string>252E742FF9F148628469F44B</string>
+				<string>3F0E93BA761547FB9DB64EB1</string>
+				<string>2B1AEEFDB9AB48079BBA71DA</string>
+				<string>10608D0DC36C413D87937335</string>
+				<string>64947F7925F844609B812F55</string>
+				<string>BEABEAE0F41A43A0B14835A3</string>
+				<string>A706EB07B0B04DDE9762C5AC</string>
+				<string>DC471D614C5B4D819295FC41</string>
+				<string>192175A4EA684181AC89F67F</string>
+				<string>25C934F85A7D409B9E1DAA65</string>
+				<string>A04F0E828FB84001A3EAA6C3</string>
+				<string>3F207491F8F642B6A876C7BB</string>
+				<string>A63D729F715C4D67B1610E36</string>
+				<string>FE90E109937140EEA3D6719F</string>
+				<string>04B85BB5A1C145B8A2D49929</string>
+				<string>722D131227AD4425AFACDDEF</string>
+				<string>51782BFF6D654D7CA8242CFD</string>
+				<string>28B1AA6EC99B4946AF54683A</string>
+				<string>5662A578787B407DBAC6A82B</string>
+				<string>8300AB935D8C4D0E9C29D382</string>
+				<string>95264B45E12D4A0C980604C2</string>
+				<string>9D83927A61DC40F585F8554C</string>
+				<string>3654176B852B4E7A9A1180C0</string>
+				<string>1446FF4891CC45408913BABD</string>
+				<string>8955D8784FF24440B603FF71</string>
+				<string>8880B6EF2EA74817AE154213</string>
+				<string>7F541E82F249437FBE0B3EA0</string>
+				<string>CFED858998684B4CA28DDC35</string>
+				<string>87D756814C2A42B6ADC8794D</string>
+				<string>B8043E87C06C4BA4A4F8C128</string>
+				<string>EC74CAF914A64E77A0D257D8</string>
+				<string>B038BEC5E4ED4B3FBCAD154F</string>
+				<string>EC82B4F0BBBF441BACCCFFB6</string>
+				<string>F4CA663D7F0E4602A6FD2ACE</string>
+				<string>BBBF47E714DB475497D7EC4B</string>
+				<string>3A0E26574C0C49C4AC222B17</string>
+				<string>6C861368EA554125821C7F7D</string>
+				<string>2FE16D40DD4A413CBEADB682</string>
+				<string>623D7F2803DC4130B257C7B8</string>
+				<string>4BEF24C829AB4FEC87CD3566</string>
+				<string>3FAC14F9E0814AE0998DF6CC</string>
+				<string>C003B8A4FE2343CBAE45F38D</string>
+				<string>E43EBEEB716743D982691BA6</string>
+				<string>74B83195A8B340AE98AE3B3B</string>
+				<string>E0C086A639AA4797A6F6BC15</string>
+				<string>28042351F6D24B7AB605458E</string>
+				<string>FE70029ED5DC4C5AB9CFF20F</string>
+				<string>29DAFEC3F4844EBB8BC5FC88</string>
+				<string>22EF077C1D114939B0431FD3</string>
+				<string>B0834EACFF7D432A8FB50E06</string>
+				<string>417B5411CAB64BC1BBAD01C3</string>
+				<string>2439DBAA78E743AF8FF487A1</string>
+				<string>92712215989941D382EA3471</string>
+				<string>7E868175C5D147D69F081B4A</string>
+				<string>44AF0C80844C4B72BB4FFEBB</string>
+				<string>F112BB05AE86494281AEF37A</string>
+				<string>393038305128466692A5C526</string>
+				<string>BCF13A72AF6C4AAAB58596D1</string>
+				<string>662EED851F7C4249BFC91942</string>
+				<string>98AC1F554B6E4AC6B44161AF</string>
+				<string>164A91D823BE46B69824FB6D</string>
+				<string>7688829626B54BF6B467CC3C</string>
+				<string>2D3C81903F1D4969A5AB8C4D</string>
+				<string>935B5A0BFA3F4D26B122327B</string>
+				<string>F313649A2A1B467DA3798D5A</string>
+				<string>827ECE947D654CB792824B2C</string>
+				<string>E3E956AF7520469EAC5F7687</string>
+				<string>6B02EC6CE7C24373A61FE1F7</string>
+				<string>05BEC41DE14C4825AB528E0D</string>
+				<string>9A847DF490564235A6AC0745</string>
+				<string>EE702764C3D24D5080B05466</string>
+				<string>D3EC0B49CD5143389E44EE9F</string>
+				<string>F47C9B97854D4716883E1EB6</string>
+				<string>D1FA072E83494D03BDA2965E</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Mocka</string>
+			<key>path</key>
+			<string>Mocka</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>03575192F24947BAAD54BD29</key>
 		<dict>
 			<key>fileRef</key>
-			<string>D8FB7B7A61644F6EA3FD30F4</string>
+			<string>7A5EE2B314C14B5689951919</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>05367F82BDDF46F78D16398B</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>05D6900F8EB640F7AA5D9E31</key>
+		<key>03D02B3D34A84B9FA1CE3B9E</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+beFalsy.h</string>
 			<key>path</key>
-			<string>Pods-acokit-tests-ios-Expecta-dummy.m</string>
+			<string>src/matchers/EXPMatchers+beFalsy.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>09410E0F5716427AA5D7BDA8</key>
+		<key>047C88A07CB747479F28DC5D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>0ADC35C7AEA94487849D0063</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>04B85BB5A1C145B8A2D49929</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>EXPMatchers+beLessThan.m</string>
+			<string>MCKFailureHandler.h</string>
 			<key>path</key>
-			<string>src/matchers/EXPMatchers+beLessThan.m</string>
+			<string>Sources/MCKFailureHandler.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>09910F93382F459D8CB52BBE</key>
+		<key>05BEC41DE14C4825AB528E0D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>OHHTTPStubsResponse.h</string>
+			<key>path</key>
+			<string>Sources/OHHTTPStubsResponse.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>06124E43B0FD4C10B15D5B01</key>
 		<dict>
 			<key>fileRef</key>
-			<string>22ECDA47D9E44CEE8224E2F7</string>
+			<string>9BAB2B29C34346CE80E55238</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>09C34BCE8B0641B088822ECA</key>
+		<key>064B847FD9DE4186B4A239A1</key>
 		<dict>
-			<key>baseConfigurationReference</key>
-			<string>09CEB529C24A410D82804519</string>
-			<key>buildSettings</key>
+			<key>fileRef</key>
+			<string>EC7064184A934AD98618EF71</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>07ED2223241B47C29FD9E417</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>87F1C40BA7124E45AEC0A7D0</string>
+				<string>86196E6BCF7D40E5941C30CA</string>
+				<string>650DD2418CA1419A882450A6</string>
+				<string>764171BDD46E4FEBB873B66B</string>
+				<string>ED84592447944889A98E927C</string>
+				<string>BB559D78882B4C35B24C08B1</string>
+				<string>610318476774493D9206A588</string>
+				<string>C568E53102CC42B4BC5461AF</string>
+				<string>D488FD0829FB4E64881CE4B5</string>
+				<string>B96880E9EE874369BB0AB49A</string>
+				<string>F8F7450F59094959826A8351</string>
+				<string>92BC41E8714C4294BC207DDF</string>
+				<string>C61B7B84D6EF43D299B569D6</string>
+				<string>643FD9B0E77844959B9F9834</string>
+				<string>7CDCF7036365416EB84821F5</string>
+				<string>EE1DE06A1CFA4501A2AB42F5</string>
+				<string>0A600E226AA246FFB8963E2E</string>
+				<string>13A11DB8FC5E4C69ACC25FF5</string>
+				<string>4FD1E02180E04A2D9B97A411</string>
+				<string>8553B8A437244E8A95066359</string>
+				<string>8040B57F5C094FFEA1C89758</string>
+				<string>4132FB6DED90423B97740D94</string>
+				<string>5FD78FDB678844BCB9EAC765</string>
+				<string>4D1731C00CDB46B7BF4556D6</string>
+				<string>646E6E2869E84CA8B69AAD2B</string>
+				<string>4965B01478BD43BB8D32DDEF</string>
+				<string>11BB15A1205044C0AE6BA78C</string>
+				<string>962516827BA64F099EA351D1</string>
+				<string>D6BA963EDEA74CC18E5B5CE4</string>
+				<string>7A4CE3648B744AE7AD20D80B</string>
+				<string>1E9DF467DC7149D18A1D93D3</string>
+				<string>DFD6D2EADC33490AA3DEED4C</string>
+				<string>7292370EF6A4483D84348447</string>
+				<string>AEF1E05EE0BD4DF4AF352355</string>
+				<string>A09FC5121947418B9AA2492C</string>
+				<string>4E6C7341828F496DAB77B17D</string>
+				<string>CA8380C2DF384AE8B312A950</string>
+				<string>D5B3ED9B7E0F4062A7C3B0CE</string>
+				<string>857703A1EE774F95A9ACD34E</string>
+				<string>8900602554E046D480E3D0A9</string>
+				<string>D3BE7A8B15E04B6CA762DB0B</string>
+				<string>3E7F7FAF9426455295EA7B46</string>
+				<string>DD9E1CBC73384865BA749663</string>
+				<string>B62262848F024A8396EB119D</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>095906B3DB294E338172EBD4</key>
+		<dict>
+			<key>fileRef</key>
+			<string>16382468E42D45FBA70FB2DC</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>0A600E226AA246FFB8963E2E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8955D8784FF24440B603FF71</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>0ABD1B3AF54543F7B8AEF768</key>
+		<dict>
+			<key>fileRef</key>
+			<string>935B5A0BFA3F4D26B122327B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
 			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>ARCHS</key>
-				<string>$(ARCHS_STANDARD_INCLUDING_64_BIT)</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_VERSION</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>5.0</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
 			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
 		</dict>
-		<key>09CEB529C24A410D82804519</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-acokit-tests-ios.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0A0D881DD54F4F29A01A8506</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPBlockDefinedMatcher.m</string>
-			<key>path</key>
-			<string>src/EXPBlockDefinedMatcher.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0A51B6AE3A6D482CAF856A25</key>
+		<key>0ADC35C7AEA94487849D0063</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -160,72 +276,62 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>0B1D611457334C26A13BE4A0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>EXPMatchers+raiseWithReason.h</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+raiseWithReason.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0BD943B6DD88487DA58CDFFE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>EXPMatcherHelpers.h</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatcherHelpers.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0EE2C2655C0C4381A8B10B8B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>EXPMatchers+haveCountOf.h</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+haveCountOf.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>143E6B00CD224A81940739DC</key>
+		<key>0CA95DA9D0A440A49752140B</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>FFBCF9A29A0342798D11F4D4</string>
+				<string>4D2526DDB4944E8292ECA207</string>
+				<string>5C5D403380154584A630E472</string>
+				<string>E92BC18059ED4415BA716D88</string>
 			</array>
 			<key>isa</key>
 			<string>PBXFrameworksBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>15086E6AE3594C8193750A5B</key>
+		<key>0D2D3CC3E81740D9AFEA56E6</key>
 		<dict>
 			<key>fileRef</key>
-			<string>05D6900F8EB640F7AA5D9E31</string>
+			<string>E4790F58CA024C6382B4F362</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>17B2F0989C3D488897DEF52E</key>
+		<key>0DF57127BD4D4B31B90F17F3</key>
+		<dict>
+			<key>fileRef</key>
+			<string>9296F87BFEA64B8285AF460E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>0E1C7D8B94EE47CE99A6A22E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B4C61128F6C44ECBB834F022</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>0E7D81E15F49402D9EDAE42C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8880B6EF2EA74817AE154213</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>103DDC0994114EEB992A2D50</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3501178DDBAD4705AF87A758</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>10608D0DC36C413D87937335</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -234,13 +340,65 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>NSValue+Expecta.m</string>
+			<string>MCKBlockArgumentMatcher.m</string>
 			<key>path</key>
-			<string>src/NSValue+Expecta.m</string>
+			<string>Sources/MCKBlockArgumentMatcher.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>18B002E0E9D2430ABF2B0E06</key>
+		<key>11BB15A1205044C0AE6BA78C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>74B83195A8B340AE98AE3B3B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>138973AF70894D62A62564EF</key>
+		<dict>
+			<key>fileRef</key>
+			<string>FE90E109937140EEA3D6719F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>13A11DB8FC5E4C69ACC25FF5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7F541E82F249437FBE0B3EA0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>1420E3E61EBA462F91F87241</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>F2C1B20248034855B27E588A</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Targets Support Files</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>14454C77B3224ECC9B1F2C85</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-acokit-tests-ios-Expecta.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1446FF4891CC45408913BABD</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -249,13 +407,63 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>EXPDoubleTuple.m</string>
+			<string>MCKInvocationRecorder.m</string>
 			<key>path</key>
-			<string>src/EXPDoubleTuple.m</string>
+			<string>Sources/MCKInvocationRecorder.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>19512DB4799E42C991490BA4</key>
+		<key>1450255AE8B34ED392D7789E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Pods-acokit-tests-ios-Expecta-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>146FF59C1AC943FA8A450C92</key>
+		<dict>
+			<key>fileRef</key>
+			<string>28B1AA6EC99B4946AF54683A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>153CAA93A4B14689B5EBED47</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>libPods-acokit-tests-ios.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>15E36533A1FA41BB801B1824</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E3E956AF7520469EAC5F7687</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>16382468E42D45FBA70FB2DC</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -264,20 +472,13 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>EXPFloatTuple.h</string>
+			<string>EXPBackwardCompatibility.h</string>
 			<key>path</key>
-			<string>src/EXPFloatTuple.h</string>
+			<string>src/EXPBackwardCompatibility.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>1A79204B44CC4CEF8CE9B631</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0BD943B6DD88487DA58CDFFE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>1B8CA0200CEC479A912A8BEC</key>
+		<key>164A91D823BE46B69824FB6D</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -286,13 +487,13 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>EXPMatchers.h</string>
+			<string>MCKVerifyNoInteractions.h</string>
 			<key>path</key>
-			<string>src/matchers/EXPMatchers.h</string>
+			<string>Sources/MCKVerifyNoInteractions.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>1F597E7A507D4468837EB859</key>
+		<key>175E6183E8E7484DBF5FAE14</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -300,19 +501,32 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPMatchers+raiseWithReason.m</string>
 			<key>path</key>
-			<string>src/matchers/EXPMatchers+raiseWithReason.m</string>
+			<string>Pods-acokit-tests-ios-Expecta-dummy.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>20E45045723B444E94252C83</key>
+		<key>192175A4EA684181AC89F67F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKExactArgumentMatcher.h</string>
+			<key>path</key>
+			<string>Sources/MCKExactArgumentMatcher.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>192AD89B9063406381ECFA56</key>
 		<dict>
 			<key>buildConfigurations</key>
 			<array>
-				<string>F7B85BB0BA2146D1841A8632</string>
-				<string>60BC86F9448542C9BB5F1C20</string>
+				<string>D2B9333A5BE24AC29F67EF34</string>
+				<string>5D3E58F1C0264888B325F50C</string>
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
@@ -321,39 +535,25 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>221B70590F7C49198BA6B4F4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>907FD1BE435D4C33A8B809D2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>22ECDA47D9E44CEE8224E2F7</key>
+		<key>1A432C3946B54B1F91650136</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>EXPFloatTuple.m</string>
+			<string>Expecta.h</string>
 			<key>path</key>
-			<string>src/EXPFloatTuple.m</string>
+			<string>src/Expecta.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>231C03A9B6454D7996A4B53E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9A20B37F220E4F00B116E610</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2437F6317C40440EB97A7604</key>
+		<key>1A7E9DCBDD0944E0843B6327</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>C8EDA1FF75D14DA091C6CE13</string>
+			<string>8704A250EE12436794A20F83</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
@@ -368,8 +568,6 @@
 				<string>gnu99</string>
 				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
 				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Pods-acokit-tests-ios-Expecta-prefix.pch</string>
 				<key>GCC_VERSION</key>
 				<string>com.apple.compilers.llvm.clang.1_0</string>
 				<key>INSTALL_PATH</key>
@@ -404,27 +602,30 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>24E78DEF6D3C4615A1281271</key>
+		<key>1B1BB815A5B84F3F93D5FC0D</key>
 		<dict>
-			<key>fileRef</key>
-			<string>77140895DA3E413AAB341A2A</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXTargetDependency</string>
+			<key>target</key>
+			<string>D16CD21F844D4AE2898B613C</string>
+			<key>targetProxy</key>
+			<string>6032C4FFAA534A538E2E06D8</string>
 		</dict>
-		<key>2575D5F6BC2F4656A446A4A3</key>
+		<key>1B59E6E18114476BB05EA590</key>
 		<dict>
-			<key>children</key>
+			<key>buildConfigurations</key>
 			<array>
-				<string>05367F82BDDF46F78D16398B</string>
+				<string>59408C0478E04E6BB8A0BA52</string>
+				<string>8238C7F3162940F9B1EC7C13</string>
 			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>iOS</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>XCConfigurationList</string>
 		</dict>
-		<key>2716672C42C2413DADE17400</key>
+		<key>1CEA71D353E44579A25D3C88</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -432,155 +633,158 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPMatchers+beGreaterThan.m</string>
 			<key>path</key>
-			<string>Pods-acokit-tests-ios-dummy.m</string>
+			<string>src/matchers/EXPMatchers+beGreaterThan.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>283513D2E7A049318117891F</key>
+		<key>1E6E2A08364D445087A186C5</key>
 		<dict>
 			<key>fileRef</key>
-			<string>18B002E0E9D2430ABF2B0E06</string>
+			<string>CEC19DC686D2496887155317</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>29429300DE054D9499436F2F</key>
+		<key>1E9DF467DC7149D18A1D93D3</key>
 		<dict>
 			<key>fileRef</key>
-			<string>09410E0F5716427AA5D7BDA8</string>
+			<string>2439DBAA78E743AF8FF487A1</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>2DE12C26B2A44AF9A46C1203</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>2575D5F6BC2F4656A446A4A3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2E71FF58E0D448E49311F6A4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>EXPMatchers+beLessThan.h</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+beLessThan.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2F29570B21F74005A86591D9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>EXPMatchers+raise.h</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+raise.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2FD7608AA0D545AEBB507711</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>EXPMatchers+beKindOf.h</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+beKindOf.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>31908FF395284C5E9D9AE2B9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>EXPMatchers+beNil.h</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+beNil.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>33C8B01062F947279A9F76D9</key>
+		<key>1F12FD79128E43A2BFFE6805</key>
 		<dict>
 			<key>fileRef</key>
-			<string>7E37BC3ED7CA4E589BDDA42E</string>
+			<string>B5DFEB6AFA41401D87899544</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>3607E2A1250F4B67AAFEF901</key>
+		<key>204C71F1482B457AB1EB00A9</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPUnsupportedObject.h</string>
+			<key>path</key>
+			<string>src/EXPUnsupportedObject.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>209C80A97F9B4B45A8E3BD9D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F5C88DFABC524579B75C3FBC</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>20BDE5DCF4BD4989B18BEB91</key>
+		<dict>
+			<key>fileRef</key>
+			<string>34CE3470421C4FF68BE43942</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>222E07C70C074346AC1715BB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPMatchers+beCloseTo.m</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beCloseTo.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2273224EE78A46088AF5E959</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>F7A34CCC753C4398B59C0F90</string>
-				<string>637244BA69C94AF1B324D974</string>
-				<string>283513D2E7A049318117891F</string>
-				<string>24E78DEF6D3C4615A1281271</string>
-				<string>09910F93382F459D8CB52BBE</string>
-				<string>F084620334E349B6800B0D92</string>
-				<string>3DF5C9C97B574CA9A7F2F023</string>
-				<string>AD06231A6E554CFD99833DEB</string>
-				<string>81E918E512D54DB685AA872F</string>
-				<string>55D67BC39D8E4C7690069296</string>
-				<string>E6D7C0E1B6854D2497B1ECCE</string>
-				<string>95285ED5E4DA4B95BB885283</string>
-				<string>60215412106B4986840675B5</string>
-				<string>8B218FF0071746DE9CD60A36</string>
-				<string>29429300DE054D9499436F2F</string>
-				<string>4974B00844314DDB8AD0DF0B</string>
-				<string>CFFB955017ED49ED8D56B07B</string>
-				<string>5037A8D3B96D426EBF437432</string>
-				<string>F52D6D8A87074080BA257098</string>
-				<string>452D02E8205E4B4A9AAC6C36</string>
-				<string>C088D12989C444408822410B</string>
-				<string>372F11B2EBF746DFBB9F21B7</string>
-				<string>37F650BC36CA484087A4518E</string>
-				<string>D28294208FA545688D198CD8</string>
-				<string>8325307186B0413586584C78</string>
-				<string>DF576D2F6D4A4B3E9F877024</string>
-				<string>BC7AD7D13EC8488C9AC9FCE5</string>
-				<string>945F7469B3BB436F9278889C</string>
-				<string>6814ED846B774F3FA553F6FE</string>
-				<string>15086E6AE3594C8193750A5B</string>
+				<string>5D365CCD89C74BCCB4BA5C8D</string>
+				<string>6E1669A11C6F4923BCC99C1A</string>
+				<string>84C2FCEB327B4BD681C9E2C5</string>
+				<string>C04CEC8D07EB4A41AF112C6B</string>
+				<string>26D0F79FA7584817A7130A85</string>
+				<string>54ABBD0CB60045009E5D3819</string>
+				<string>7609A6A56A9C48BF95BA7BC8</string>
+				<string>78CD3E1E836B4D3C85148F0B</string>
+				<string>4AA28F6FC2DF43DA848C330F</string>
+				<string>93F6E9DFF55B41CCA4332FE4</string>
+				<string>138973AF70894D62A62564EF</string>
+				<string>C2EA369E88724C5B8BFA5E3E</string>
+				<string>146FF59C1AC943FA8A450C92</string>
+				<string>58A78F0A1A49474C8A6CED60</string>
+				<string>890399EAB50F4ED79205753B</string>
+				<string>3ED60CFDE66842F68E4ED9C6</string>
+				<string>0E7D81E15F49402D9EDAE42C</string>
+				<string>8E97171BAE644D6D834EFA13</string>
+				<string>86975FA808034460A11EDDEF</string>
+				<string>7D10C5F6CAC74F4CB482A1C5</string>
+				<string>97D5A1D8D53749DF995672E6</string>
+				<string>DA0326C4EADD46779608AF2B</string>
+				<string>E50279F303F84852A56C0BBA</string>
+				<string>D782F2FC8FEE47AFBFCCB48A</string>
+				<string>50CA7CBBD2704C148A2704EB</string>
+				<string>8D773BF3F0DA4DF3ABEEDBFD</string>
+				<string>84F266D7B43F4896A00A9283</string>
+				<string>C0BD4577BA2B4001B62078D7</string>
+				<string>BAA3C579CC564DAC9D9FC555</string>
+				<string>4F4A40FD343A41B2A8EF9767</string>
+				<string>988D49D5BF7D48768061F759</string>
+				<string>568B0ED86BD14E1DAB181FE7</string>
+				<string>D26D6CB09D914B368BD897CA</string>
+				<string>3798E17E981841228D06CBB8</string>
+				<string>0ABD1B3AF54543F7B8AEF768</string>
+				<string>15E36533A1FA41BB801B1824</string>
+				<string>98205F4B29DD404EA0A275E1</string>
+				<string>B9F711B65CDE40B99D2E611B</string>
 			</array>
 			<key>isa</key>
 			<string>PBXSourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>372F11B2EBF746DFBB9F21B7</key>
+		<key>22EF077C1D114939B0431FD3</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKStub.m</string>
+			<key>path</key>
+			<string>Sources/MCKStub.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>23AE616BD83642D48D7C0DCF</key>
 		<dict>
 			<key>fileRef</key>
-			<string>D41779208A324D18B3165971</string>
+			<string>9FE2C1C65E494A66A95CFB2B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>3732138E42FB4C10A2030A00</key>
+		<key>23D90DFB9D7B4E178F10279E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5A4E4DB08F8848D1B4BDD307</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>2439DBAA78E743AF8FF487A1</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -589,20 +793,173 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>EXPMatchers+contain.h</string>
+			<string>MCKTypeEncodings.h</string>
 			<key>path</key>
-			<string>src/matchers/EXPMatchers+contain.h</string>
+			<string>Sources/MCKTypeEncodings.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>37788E06CE824D56B0AB4ECC</key>
+		<key>252E742FF9F148628469F44B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKArgumentSerialization.h</string>
+			<key>path</key>
+			<string>Sources/MCKArgumentSerialization.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>25C934F85A7D409B9E1DAA65</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKExactArgumentMatcher.m</string>
+			<key>path</key>
+			<string>Sources/MCKExactArgumentMatcher.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>25D5DC483C31407CAA3ADF78</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPMatchers+haveCountOf.m</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+haveCountOf.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>26D0F79FA7584817A7130A85</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2FD7608AA0D545AEBB507711</string>
+			<string>3F0E93BA761547FB9DB64EB1</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>28042351F6D24B7AB605458E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKSpy.h</string>
+			<key>path</key>
+			<string>Sources/MCKSpy.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>28B1AA6EC99B4946AF54683A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKHamcrestArgumentMatcher.m</string>
+			<key>path</key>
+			<string>Sources/MCKHamcrestArgumentMatcher.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>29DAFEC3F4844EBB8BC5FC88</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKStub.h</string>
+			<key>path</key>
+			<string>Sources/MCKStub.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>29E15D9A6F78419C8373D646</key>
+		<dict>
+			<key>fileRef</key>
+			<string>70E0F68A3B674FFE8770126C</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>37C5E3B26DD84836BDD6E23E</key>
+		<key>2A69831B9F1C419481220A77</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>CDBE120ECA6F43FF95F3F669</string>
+				<string>1A7E9DCBDD0944E0843B6327</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>2AA2E8CF2495419CBBBC1FB4</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2DFF13A6ACE84C42A1A5795D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>2B1AEEFDB9AB48079BBA71DA</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKBlockArgumentMatcher.h</string>
+			<key>path</key>
+			<string>Sources/MCKBlockArgumentMatcher.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2D3C81903F1D4969A5AB8C4D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKXCTestFailureHandler.h</string>
+			<key>path</key>
+			<string>Sources/MCKXCTestFailureHandler.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2DFF13A6ACE84C42A1A5795D</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -617,21 +974,27 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>37F650BC36CA484087A4518E</key>
+		<key>2E44FD71A7FE4866A1EC4F31</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>XCTest.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/XCTest.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>2E5C34AE67654F47928A0499</key>
 		<dict>
 			<key>fileRef</key>
-			<string>728763AD75034434BF7B32E2</string>
+			<string>25D5DC483C31407CAA3ADF78</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>3A5D5D59A742499D86ED9992</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7ACE57C2F1DB43F1971D4430</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>3AC0FB20764844AE94306A1B</key>
+		<key>2FE16D40DD4A413CBEADB682</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -640,74 +1003,704 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>EXPMatchers+beNil.m</string>
+			<string>MCKNetworkMock.m</string>
 			<key>path</key>
-			<string>src/matchers/EXPMatchers+beNil.m</string>
+			<string>Sources/MCKNetworkMock.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>3DF5C9C97B574CA9A7F2F023</key>
+		<key>30A0AFC2B5894F14A9FDE580</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text</string>
+			<key>path</key>
+			<string>Pods-acokit-tests-ios-acknowledgements.markdown</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>30B21378198645DB96E3314E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKAnyArgumentMatcher.h</string>
+			<key>path</key>
+			<string>Sources/MCKAnyArgumentMatcher.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3239C5D4B55A42EE908D4506</key>
 		<dict>
 			<key>fileRef</key>
-			<string>771D2CDD409F4941AEA8F16E</string>
+			<string>CB3CBF3EF04E4E2ABE9942E2</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>3E5135348BEC49E49493B266</key>
+		<key>3343770F3B2A40D9BBFEE381</key>
 		<dict>
 			<key>fileRef</key>
-			<string>92DBB223FE9D400EB711F468</string>
+			<string>64BC409A168643ECB922A4A5</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>3F98548F26364992BD1625B0</key>
+		<key>34CE3470421C4FF68BE43942</key>
 		<dict>
-			<key>buildConfigurations</key>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPDefines.h</string>
+			<key>path</key>
+			<string>src/EXPDefines.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3501178DDBAD4705AF87A758</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+beGreaterThan.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beGreaterThan.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>354BD0C5D19849C48F617214</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>4D71399086BB496AB3C0002C</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>3DF4DD750A884839ADF82947</string>
+			<key>remoteInfo</key>
+			<string>Pods-acokit-tests-ios-Mocka</string>
+		</dict>
+		<key>3554777A79C1419E935E5312</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+beLessThan.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beLessThan.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3654176B852B4E7A9A1180C0</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKInvocationRecorder.h</string>
+			<key>path</key>
+			<string>Sources/MCKInvocationRecorder.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3798E17E981841228D06CBB8</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7688829626B54BF6B467CC3C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>380D2A0819604B8BA1ABD4EE</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B52B50339E0A4AFC8DCFFD31</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>38CA0E69E3FD487E942F7FC5</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-acokit-tests-ios-Mocka-Private.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>393038305128466692A5C526</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKVerificationResult.m</string>
+			<key>path</key>
+			<string>Sources/MCKVerificationResult.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3A0E26574C0C49C4AC222B17</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKMockingSyntax.m</string>
+			<key>path</key>
+			<string>Sources/MCKMockingSyntax.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3C81257820DB465EBAD6AFEA</key>
+		<dict>
+			<key>children</key>
 			<array>
-				<string>A151D40549A043368A56B13D</string>
-				<string>2437F6317C40440EB97A7604</string>
+				<string>153CAA93A4B14689B5EBED47</string>
+				<string>4E6D73AA3FF34A58A33066D1</string>
+				<string>B7AB3D4126654480A05F09C6</string>
 			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
 			<key>isa</key>
-			<string>XCConfigurationList</string>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Products</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>4097023BBBB94A01ADA4399F</key>
+		<key>3CB579EC4A1D46889D0C66EA</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+beNil.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beNil.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3CECBFE144974ED99A5BDFF4</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+equal.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+equal.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3DB714E62E2F4898B35BAD1E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+raise.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+raise.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3DF4DD750A884839ADF82947</key>
 		<dict>
 			<key>buildConfigurationList</key>
-			<string>931E9E5E13424B889E134AB1</string>
+			<string>1B59E6E18114476BB05EA590</string>
 			<key>buildPhases</key>
 			<array>
-				<string>AA62BD9A121440288E9DCC93</string>
-				<string>6F0A9A1A50FB42AAB8E88911</string>
+				<string>2273224EE78A46088AF5E959</string>
+				<string>D96B4A8D04CF4A1DB825D353</string>
+				<string>07ED2223241B47C29FD9E417</string>
 			</array>
 			<key>buildRules</key>
 			<array/>
 			<key>dependencies</key>
-			<array>
-				<string>A367AE279A004B618B14CA36</string>
-			</array>
+			<array/>
 			<key>isa</key>
 			<string>PBXNativeTarget</string>
 			<key>name</key>
-			<string>Pods-acokit-tests-ios</string>
+			<string>Pods-acokit-tests-ios-Mocka</string>
 			<key>productName</key>
-			<string>Pods-acokit-tests-ios</string>
+			<string>Pods-acokit-tests-ios-Mocka</string>
 			<key>productReference</key>
-			<string>68A5D49FFF74413D8BE75F04</string>
+			<string>B7AB3D4126654480A05F09C6</string>
 			<key>productType</key>
 			<string>com.apple.product-type.library.static</string>
 		</dict>
-		<key>41C4A78F58B545DEAA021B5C</key>
+		<key>3E628B9AC66142259A0D1548</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>50994A43A1494007BDC01367</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3E7F7FAF9426455295EA7B46</key>
 		<dict>
 			<key>fileRef</key>
-			<string>AA2C4FFC3DB84694857FC654</string>
+			<string>EE702764C3D24D5080B05466</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>43B08BC972AF4133A2C02299</key>
+		<key>3ED60CFDE66842F68E4ED9C6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>1446FF4891CC45408913BABD</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>3F0E93BA761547FB9DB64EB1</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKArgumentSerialization.m</string>
+			<key>path</key>
+			<string>Sources/MCKArgumentSerialization.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3F207491F8F642B6A876C7BB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKExactlyVerificationHandler.m</string>
+			<key>path</key>
+			<string>Sources/MCKExactlyVerificationHandler.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3FAC14F9E0814AE0998DF6CC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKNetworkRequestMatcher.m</string>
+			<key>path</key>
+			<string>Sources/MCKNetworkRequestMatcher.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4132FB6DED90423B97740D94</key>
+		<dict>
+			<key>fileRef</key>
+			<string>BBBF47E714DB475497D7EC4B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>417B5411CAB64BC1BBAD01C3</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKStubbingSyntax.m</string>
+			<key>path</key>
+			<string>Sources/MCKStubbingSyntax.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4298C9ED6AAA49149A116AFB</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C92FF55306B245B29DD270B0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>44AF0C80844C4B72BB4FFEBB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKVerificationHandler.m</string>
+			<key>path</key>
+			<string>Sources/MCKVerificationHandler.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>467E1CA9F9C5462498CB5F65</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKAllCollector.h</string>
+			<key>path</key>
+			<string>Sources/MCKAllCollector.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4762C3140D7F4E9A9A3B3B73</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A1698AA14E94445EBA7C41AB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4965B01478BD43BB8D32DDEF</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C003B8A4FE2343CBAE45F38D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>49D7A90B8C3940ECB8F0EAC0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>90DA81E519B5468EB01174B6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4A3072341B2A4CC18C69746F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>56241351EC654BB8A741859D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4A3405B56A4E4978B2C159DF</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6EB85AA6976B484295EFDC36</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4A4DB33A57E44874B06F1862</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.script.sh</string>
+			<key>path</key>
+			<string>Pods-acokit-tests-ios-resources.sh</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4A9AD77DB5E9426CA9185FBD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DE767A7669A942D9BBE3386C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4AA28F6FC2DF43DA848C330F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>25C934F85A7D409B9E1DAA65</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>4B5137C573CC4E85ACD9E8CB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-acokit-tests-ios-Expecta-Private.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4BD0BD35A45343BCB1D9E60E</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>095906B3DB294E338172EBD4</string>
+				<string>4EF6C83F65874B7DB0F57694</string>
+				<string>20BDE5DCF4BD4989B18BEB91</string>
+				<string>7089DADE90AC414DA93F143F</string>
+				<string>064B847FD9DE4186B4A239A1</string>
+				<string>A1DC7CC3830B4F7D92A87DC3</string>
+				<string>CE1EFC989D6D4118AF5025C8</string>
+				<string>EFA1506483444FEF9D67714E</string>
+				<string>C1A05E92671D4D759F8E1EA0</string>
+				<string>E6B081C567A04F63B66080B0</string>
+				<string>103DDC0994114EEB992A2D50</string>
+				<string>4298C9ED6AAA49149A116AFB</string>
+				<string>3343770F3B2A40D9BBFEE381</string>
+				<string>57F5DB6FC7F54CB58900096C</string>
+				<string>380D2A0819604B8BA1ABD4EE</string>
+				<string>3239C5D4B55A42EE908D4506</string>
+				<string>5387A3080FF24BB4ABDCB03A</string>
+				<string>8910D717D4294BC0995CAD89</string>
+				<string>F0884590FA0A485DB7135DA1</string>
+				<string>0D2D3CC3E81740D9AFEA56E6</string>
+				<string>7F1DA55B68A44BAC9B2649CB</string>
+				<string>23D90DFB9D7B4E178F10279E</string>
+				<string>0DF57127BD4D4B31B90F17F3</string>
+				<string>9F346CA37259448DBAB62BD9</string>
+				<string>CAF379EE0AEA42C7ADD7D0A0</string>
+				<string>793684CE57324BDD8CC4E3FA</string>
+				<string>B8FDC4F60E054338BD048B54</string>
+				<string>9962438A20AF4349B777C4B8</string>
+				<string>594C31966916419CA1CA57E0</string>
+				<string>7D43E1C6EDEE43578BB00EDA</string>
+				<string>B72ABB2314D7444A91E4045D</string>
+				<string>5FC29CA8D4DC44D9BE8485C9</string>
+				<string>1E6E2A08364D445087A186C5</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>4BEF24C829AB4FEC87CD3566</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKNetworkRequestMatcher.h</string>
+			<key>path</key>
+			<string>Sources/MCKNetworkRequestMatcher.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4C0973707387414FB6B16E27</key>
+		<dict>
+			<key>fileRef</key>
+			<string>70E0F68A3B674FFE8770126C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4D1731C00CDB46B7BF4556D6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>623D7F2803DC4130B257C7B8</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4D2526DDB4944E8292ECA207</key>
+		<dict>
+			<key>fileRef</key>
+			<string>70E0F68A3B674FFE8770126C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4D71399086BB496AB3C0002C</key>
+		<dict>
+			<key>attributes</key>
+			<dict>
+				<key>LastUpgradeCheck</key>
+				<string>0500</string>
+			</dict>
+			<key>buildConfigurationList</key>
+			<string>192AD89B9063406381ECFA56</string>
+			<key>compatibilityVersion</key>
+			<string>Xcode 3.2</string>
+			<key>developmentRegion</key>
+			<string>English</string>
+			<key>hasScannedForEncodings</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXProject</string>
+			<key>knownRegions</key>
+			<array>
+				<string>en</string>
+			</array>
+			<key>mainGroup</key>
+			<string>99F1EB81153C4A75B2416076</string>
+			<key>productRefGroup</key>
+			<string>3C81257820DB465EBAD6AFEA</string>
+			<key>projectDirPath</key>
+			<string></string>
+			<key>projectReferences</key>
+			<array/>
+			<key>projectRoot</key>
+			<string></string>
+			<key>targets</key>
+			<array>
+				<string>9C7DD6D51D144F4DBFB19939</string>
+				<string>D16CD21F844D4AE2898B613C</string>
+				<string>3DF4DD750A884839ADF82947</string>
+			</array>
+		</dict>
+		<key>4E6C7341828F496DAB77B17D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>164A91D823BE46B69824FB6D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4E6D73AA3FF34A58A33066D1</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>libPods-acokit-tests-ios-Expecta.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>4EF6C83F65874B7DB0F57694</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8ED87B2753EF44B986E3D2D4</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4F4A40FD343A41B2A8EF9767</key>
+		<dict>
+			<key>fileRef</key>
+			<string>92712215989941D382EA3471</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>4FD1E02180E04A2D9B97A411</key>
+		<dict>
+			<key>fileRef</key>
+			<string>87D756814C2A42B6ADC8794D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>50994A43A1494007BDC01367</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>70E0F68A3B674FFE8770126C</string>
+				<string>2E44FD71A7FE4866A1EC4F31</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>iOS</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>50CA7CBBD2704C148A2704EB</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E43EBEEB716743D982691BA6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>51782BFF6D654D7CA8242CFD</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKHamcrestArgumentMatcher.h</string>
+			<key>path</key>
+			<string>Sources/MCKHamcrestArgumentMatcher.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5387A3080FF24BB4ABDCB03A</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3554777A79C1419E935E5312</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>53CA035518E64240AFB2ADCB</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -722,106 +1715,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>452D02E8205E4B4A9AAC6C36</key>
+		<key>54ABBD0CB60045009E5D3819</key>
 		<dict>
 			<key>fileRef</key>
-			<string>C36DAA849BFD4A699BF92C6E</string>
+			<string>10608D0DC36C413D87937335</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
 		</dict>
-		<key>47B2D1DE4F8D4E89B56D5697</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>9DD9069704AC465BBD54EDAD</string>
-				<string>2DE12C26B2A44AF9A46C1203</string>
-				<string>F9DDBEAD966E47B5854A3D77</string>
-				<string>85431D498E744E0A9C8BD808</string>
-				<string>C89677FC29EB4053AA1A802F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47C804F7945940138E618575</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E91239A23A744130A4C41E26</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>4974B00844314DDB8AD0DF0B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>772F28147B604D5590827B67</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>4A7990D97C674C50A4F92C0C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-acokit-tests-ios-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4C8FFD9103354457BC9D4ADE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPUnsupportedObject.m</string>
-			<key>path</key>
-			<string>src/EXPUnsupportedObject.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4E556C9ABC0E42B1B014B1D6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-acokit-tests-ios-Expecta-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5037A8D3B96D426EBF437432</key>
-		<dict>
-			<key>fileRef</key>
-			<string>CE74413616464F60A249E8E0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>540EA5B66B0F443FAC543B70</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>EXPMatchers+beInTheRangeOf.h</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+beInTheRangeOf.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5571760A79B544218C4068D4</key>
+		<key>56241351EC654BB8A741859D</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -836,14 +1742,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>55D67BC39D8E4C7690069296</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7294F62F4D9B4BFF9F1F88EE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>5A69A205CD6F4C589D47B713</key>
+		<key>5662A578787B407DBAC6A82B</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -852,133 +1751,117 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>EXPBackwardCompatibility.h</string>
+			<string>MCKInOrderCollector.h</string>
 			<key>path</key>
-			<string>src/EXPBackwardCompatibility.h</string>
+			<string>Sources/MCKInOrderCollector.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>5AEA44D92CD64F2FA8CCF0BF</key>
+		<key>568B0ED86BD14E1DAB181FE7</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>5A69A205CD6F4C589D47B713</string>
-				<string>9250A0A687B24D1F8D133F9A</string>
-				<string>DAF06E646E674873AF24AE16</string>
-				<string>0A0D881DD54F4F29A01A8506</string>
-				<string>745220F001444E088F9EA555</string>
-				<string>7ACE57C2F1DB43F1971D4430</string>
-				<string>18B002E0E9D2430ABF2B0E06</string>
-				<string>E6CBAEEEE21C446987B57C0F</string>
-				<string>77140895DA3E413AAB341A2A</string>
-				<string>19512DB4799E42C991490BA4</string>
-				<string>22ECDA47D9E44CEE8224E2F7</string>
-				<string>76451F6CF3E4465C9ACF7129</string>
-				<string>0BD943B6DD88487DA58CDFFE</string>
-				<string>5D5A159E5EBF4E3E95444883</string>
-				<string>1B8CA0200CEC479A912A8BEC</string>
-				<string>601561C2A6A7483FADC6457D</string>
-				<string>771D2CDD409F4941AEA8F16E</string>
-				<string>E91239A23A744130A4C41E26</string>
-				<string>5571760A79B544218C4068D4</string>
-				<string>907FD1BE435D4C33A8B809D2</string>
-				<string>64E8BBAC075448EB972191FB</string>
-				<string>8A45CEB0D19443758A5B5859</string>
-				<string>7294F62F4D9B4BFF9F1F88EE</string>
-				<string>7E37BC3ED7CA4E589BDDA42E</string>
-				<string>BF8C0B65D5974BF79A6B7842</string>
-				<string>540EA5B66B0F443FAC543B70</string>
-				<string>E6121D38B0DC475FA0BA5359</string>
-				<string>B363E291A85C49E6AD5FDE6B</string>
-				<string>81EF1C4C3A5E4321A7FD96CF</string>
-				<string>2FD7608AA0D545AEBB507711</string>
-				<string>0A51B6AE3A6D482CAF856A25</string>
-				<string>2E71FF58E0D448E49311F6A4</string>
-				<string>09410E0F5716427AA5D7BDA8</string>
-				<string>AA2C4FFC3DB84694857FC654</string>
-				<string>772F28147B604D5590827B67</string>
-				<string>31908FF395284C5E9D9AE2B9</string>
-				<string>3AC0FB20764844AE94306A1B</string>
-				<string>F22FAD50B6EC471F967C91FC</string>
-				<string>CE74413616464F60A249E8E0</string>
-				<string>7541607C32B448BBAD0011B4</string>
-				<string>43B08BC972AF4133A2C02299</string>
-				<string>92DBB223FE9D400EB711F468</string>
-				<string>C36DAA849BFD4A699BF92C6E</string>
-				<string>3732138E42FB4C10A2030A00</string>
-				<string>37C5E3B26DD84836BDD6E23E</string>
-				<string>F86743F02D454179832F1E94</string>
-				<string>D41779208A324D18B3165971</string>
-				<string>0EE2C2655C0C4381A8B10B8B</string>
-				<string>728763AD75034434BF7B32E2</string>
-				<string>2F29570B21F74005A86591D9</string>
-				<string>66AE376B14744E1585866E3F</string>
-				<string>0B1D611457334C26A13BE4A0</string>
-				<string>1F597E7A507D4468837EB859</string>
-				<string>D8FB7B7A61644F6EA3FD30F4</string>
-				<string>4C8FFD9103354457BC9D4ADE</string>
-				<string>FA2937F1D3A8469D8B9947B7</string>
-				<string>5DF94E9455DF4FCDB7C99006</string>
-				<string>ABDEF800144F42B183268FD7</string>
-				<string>B571EA623E274C7C89D03895</string>
-				<string>E6C2EFAA65EE42DF908F27D6</string>
-				<string>A5BDFD47F48F417F885A9751</string>
-				<string>17B2F0989C3D488897DEF52E</string>
-				<string>E29EDBFD9FEF4442B7568736</string>
-			</array>
+			<key>fileRef</key>
+			<string>393038305128466692A5C526</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Expecta</string>
-			<key>path</key>
-			<string>Expecta</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
 		</dict>
-		<key>5D5A159E5EBF4E3E95444883</key>
+		<key>57F5DB6FC7F54CB58900096C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>678DEC1F34EA4415AA057640</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>58A78F0A1A49474C8A6CED60</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8300AB935D8C4D0E9C29D382</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>590878CD77FF4327829CD1BD</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPMatcherHelpers.m</string>
+			<string>text.xcconfig</string>
 			<key>path</key>
-			<string>src/matchers/EXPMatcherHelpers.m</string>
+			<string>Pods-acokit-tests-ios-Mocka.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>5DD849A2790F40BD818E848F</key>
+		<key>59408C0478E04E6BB8A0BA52</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>baseConfigurationReference</key>
+			<string>38CA0E69E3FD487E942F7FC5</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>ARCHS</key>
+				<string>$(ARCHS_STANDARD_INCLUDING_64_BIT)</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>NO</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_C_LANGUAGE_STANDARD</key>
+				<string>gnu99</string>
+				<key>GCC_DYNAMIC_NO_PIC</key>
+				<string>NO</string>
+				<key>GCC_OPTIMIZATION_LEVEL</key>
+				<string>0</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Pods-acokit-tests-ios-Mocka-prefix.pch</string>
+				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
+				<array>
+					<string>DEBUG=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
+				<string>NO</string>
+				<key>GCC_VERSION</key>
+				<string>com.apple.compilers.llvm.clang.1_0</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>5.0</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+			</dict>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-acokit-tests-ios-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5DF94E9455DF4FCDB7C99006</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>XCBuildConfiguration</string>
 			<key>name</key>
-			<string>Expecta.m</string>
-			<key>path</key>
-			<string>src/Expecta.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>Debug</string>
 		</dict>
-		<key>601561C2A6A7483FADC6457D</key>
+		<key>594C31966916419CA1CA57E0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>204C71F1482B457AB1EB00A9</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>5A4E4DB08F8848D1B4BDD307</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -987,20 +1870,32 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>EXPMatchers+beCloseTo.h</string>
+			<string>EXPMatchers+conformTo.h</string>
 			<key>path</key>
-			<string>src/matchers/EXPMatchers+beCloseTo.h</string>
+			<string>src/matchers/EXPMatchers+conformTo.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>60215412106B4986840675B5</key>
+		<key>5C5D403380154584A630E472</key>
 		<dict>
 			<key>fileRef</key>
-			<string>81EF1C4C3A5E4321A7FD96CF</string>
+			<string>4E6D73AA3FF34A58A33066D1</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>60BC86F9448542C9BB5F1C20</key>
+		<key>5D365CCD89C74BCCB4BA5C8D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6D9A8754B9234C1DA23927C8</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>5D3E58F1C0264888B325F50C</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -1058,129 +1953,41 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>637244BA69C94AF1B324D974</key>
+		<key>5FC29CA8D4DC44D9BE8485C9</key>
 		<dict>
 			<key>fileRef</key>
-			<string>0A0D881DD54F4F29A01A8506</string>
+			<string>987E89934C7F4351BB4ACA92</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>64E8BBAC075448EB972191FB</key>
+		<key>5FD78FDB678844BCB9EAC765</key>
 		<dict>
-			<key>includeInIndex</key>
+			<key>fileRef</key>
+			<string>6C861368EA554125821C7F7D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>6032C4FFAA534A538E2E06D8</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>4D71399086BB496AB3C0002C</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
 			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPMatchers+beGreaterThan.m</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+beGreaterThan.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<key>remoteGlobalIDString</key>
+			<string>D16CD21F844D4AE2898B613C</string>
+			<key>remoteInfo</key>
+			<string>Pods-acokit-tests-ios-Expecta</string>
 		</dict>
-		<key>659FB20A9E1748A9B54BB0C2</key>
+		<key>610318476774493D9206A588</key>
 		<dict>
 			<key>fileRef</key>
-			<string>0EE2C2655C0C4381A8B10B8B</string>
+			<string>64947F7925F844609B812F55</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>66AE376B14744E1585866E3F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPMatchers+raise.m</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+raise.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6814ED846B774F3FA553F6FE</key>
-		<dict>
-			<key>fileRef</key>
-			<string>17B2F0989C3D488897DEF52E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>68A5D49FFF74413D8BE75F04</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-acokit-tests-ios.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>697E08C1F1844050A6228968</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B363E291A85C49E6AD5FDE6B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6F0A9A1A50FB42AAB8E88911</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>7C42A8D5EBF340B4858AA5ED</string>
-				<string>231C03A9B6454D7996A4B53E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>728763AD75034434BF7B32E2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPMatchers+haveCountOf.m</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+haveCountOf.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7294F62F4D9B4BFF9F1F88EE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPMatchers+beGreaterThanOrEqualTo.m</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+beGreaterThanOrEqualTo.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>73D48A89D4E24930BF7B65F2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DAF06E646E674873AF24AE16</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>745220F001444E088F9EA555</key>
+		<key>623D7F2803DC4130B257C7B8</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1189,13 +1996,27 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>EXPDefines.h</string>
+			<string>MCKNetworkMock_Private.h</string>
 			<key>path</key>
-			<string>src/EXPDefines.h</string>
+			<string>Sources/MCKNetworkMock_Private.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>7541607C32B448BBAD0011B4</key>
+		<key>643FD9B0E77844959B9F9834</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5662A578787B407DBAC6A82B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>646E6E2869E84CA8B69AAD2B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>4BEF24C829AB4FEC87CD3566</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>64947F7925F844609B812F55</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1204,109 +2025,13 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>EXPMatchers+beTruthy.h</string>
+			<string>MCKBlockWrapper.h</string>
 			<key>path</key>
-			<string>src/matchers/EXPMatchers+beTruthy.h</string>
+			<string>Sources/MCKBlockWrapper.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>762F785EF3804F50B59BB766</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2716672C42C2413DADE17400</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>76451F6CF3E4465C9ACF7129</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>EXPMatcher.h</string>
-			<key>path</key>
-			<string>src/EXPMatcher.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>77140895DA3E413AAB341A2A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPExpect.m</string>
-			<key>path</key>
-			<string>src/EXPExpect.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>771D2CDD409F4941AEA8F16E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPMatchers+beCloseTo.m</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+beCloseTo.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>772F28147B604D5590827B67</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPMatchers+beLessThanOrEqualTo.m</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+beLessThanOrEqualTo.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>776AC501CF0641128337914B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2E71FF58E0D448E49311F6A4</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7ACE57C2F1DB43F1971D4430</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>EXPDoubleTuple.h</string>
-			<key>path</key>
-			<string>src/EXPDoubleTuple.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7C42A8D5EBF340B4858AA5ED</key>
-		<dict>
-			<key>fileRef</key>
-			<string>05367F82BDDF46F78D16398B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7E37BC3ED7CA4E589BDDA42E</key>
+		<key>64BC409A168643ECB922A4A5</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1321,88 +2046,21 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>7E43295AB09D4BA888C678C8</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>3F98548F26364992BD1625B0</string>
-			<key>buildPhases</key>
-			<array>
-				<string>3607E2A1250F4B67AAFEF901</string>
-				<string>143E6B00CD224A81940739DC</string>
-				<string>A4F83FDB14E74879890636FF</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-acokit-tests-ios-Expecta</string>
-			<key>productName</key>
-			<string>Pods-acokit-tests-ios-Expecta</string>
-			<key>productReference</key>
-			<string>9A20B37F220E4F00B116E610</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>81E918E512D54DB685AA872F</key>
+		<key>650DD2418CA1419A882450A6</key>
 		<dict>
 			<key>fileRef</key>
-			<string>64E8BBAC075448EB972191FB</string>
+			<string>B5C4D52ED1A5438182C97A29</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>81EF1C4C3A5E4321A7FD96CF</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPMatchers+beInstanceOf.m</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+beInstanceOf.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8325307186B0413586584C78</key>
+		<key>662B042A2FCA4A209DE78096</key>
 		<dict>
 			<key>fileRef</key>
-			<string>1F597E7A507D4468837EB859</string>
+			<string>F096EF65EA234A12A74D7B67</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>844D95B24E054B2E912157C7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-acokit-tests-ios-Expecta.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>85431D498E744E0A9C8BD808</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>68A5D49FFF74413D8BE75F04</string>
-				<string>9A20B37F220E4F00B116E610</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8A45CEB0D19443758A5B5859</key>
+		<key>662EED851F7C4249BFC91942</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1411,13 +2069,107 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>EXPMatchers+beGreaterThanOrEqualTo.h</string>
+			<string>MCKVerificationSyntax.h</string>
 			<key>path</key>
-			<string>src/matchers/EXPMatchers+beGreaterThanOrEqualTo.h</string>
+			<string>Sources/MCKVerificationSyntax.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>8AC726096FA5468BAC51064A</key>
+		<key>678DEC1F34EA4415AA057640</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+beInTheRangeOf.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beInTheRangeOf.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>67E0605561334F5C8E166AB3</key>
+		<dict>
+			<key>fileRef</key>
+			<string>824CA1FCD02C4C209BEB4C15</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>6B02EC6CE7C24373A61FE1F7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>OHHTTPStubs.h</string>
+			<key>path</key>
+			<string>Sources/OHHTTPStubs.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6C861368EA554125821C7F7D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKNetworkMock.h</string>
+			<key>path</key>
+			<string>Sources/MCKNetworkMock.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6D9A8754B9234C1DA23927C8</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKAllCollector.m</string>
+			<key>path</key>
+			<string>Sources/MCKAllCollector.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6E1669A11C6F4923BCC99C1A</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7C778F3D127640D883928139</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>6EB85AA6976B484295EFDC36</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPUnsupportedObject.m</string>
+			<key>path</key>
+			<string>src/EXPUnsupportedObject.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>705B29E3FC4F424BA29AB65B</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1430,29 +2182,27 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>8B218FF0071746DE9CD60A36</key>
+		<key>7089DADE90AC414DA93F143F</key>
 		<dict>
 			<key>fileRef</key>
-			<string>0A51B6AE3A6D482CAF856A25</string>
+			<string>D7AEF65C42B6429E80159F06</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>907FD1BE435D4C33A8B809D2</key>
+		<key>70E0F68A3B674FFE8770126C</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>wrapper.framework</string>
 			<key>name</key>
-			<string>EXPMatchers+beGreaterThan.h</string>
+			<string>Foundation.framework</string>
 			<key>path</key>
-			<string>src/matchers/EXPMatchers+beGreaterThan.h</string>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework</string>
 			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>9250A0A687B24D1F8D133F9A</key>
+		<key>722D131227AD4425AFACDDEF</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1461,13 +2211,20 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>EXPBackwardCompatibility.m</string>
+			<string>MCKFailureHandler.m</string>
 			<key>path</key>
-			<string>src/EXPBackwardCompatibility.m</string>
+			<string>Sources/MCKFailureHandler.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>92DBB223FE9D400EB711F468</key>
+		<key>7292370EF6A4483D84348447</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F112BB05AE86494281AEF37A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>74B83195A8B340AE98AE3B3B</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1476,81 +2233,50 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>EXPMatchers+conformTo.h</string>
+			<string>MCKSenTestFailureHandler.h</string>
 			<key>path</key>
-			<string>src/matchers/EXPMatchers+conformTo.h</string>
+			<string>Sources/MCKSenTestFailureHandler.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>931E9E5E13424B889E134AB1</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>A81DA3B22952494BB9C2CC50</string>
-				<string>09C34BCE8B0641B088822ECA</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>945F7469B3BB436F9278889C</key>
+		<key>7609A6A56A9C48BF95BA7BC8</key>
 		<dict>
 			<key>fileRef</key>
-			<string>B571EA623E274C7C89D03895</string>
+			<string>BEABEAE0F41A43A0B14835A3</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>764171BDD46E4FEBB873B66B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A59D30A9996342859AD4D670</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>95285ED5E4DA4B95BB885283</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E6121D38B0DC475FA0BA5359</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>970EBA13A0D14C63B18046DF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>76451F6CF3E4465C9ACF7129</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>9A20B37F220E4F00B116E610</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-acokit-tests-ios-Expecta.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>9DD9069704AC465BBD54EDAD</key>
+		<key>7688829626B54BF6B467CC3C</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text</string>
+			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>Podfile</string>
+			<string>MCKVerifyNoInteractions.m</string>
 			<key>path</key>
-			<string>../Podfile</string>
+			<string>Sources/MCKVerifyNoInteractions.m</string>
 			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-			<key>xcLanguageSpecificationIdentifier</key>
-			<string>xcode.lang.ruby</string>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>A151D40549A043368A56B13D</key>
+		<key>768AD9CFD5A94C47874E3678</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>C8EDA1FF75D14DA091C6CE13</string>
+			<string>4B5137C573CC4E85ACD9E8CB</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
@@ -1600,86 +2326,111 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>A2F928CB0B474D99927543F9</key>
+		<key>76E08050F8F94019A9384982</key>
 		<dict>
 			<key>fileRef</key>
-			<string>F22FAD50B6EC471F967C91FC</string>
+			<string>2E44FD71A7FE4866A1EC4F31</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>A367AE279A004B618B14CA36</key>
+		<key>7746D1EBABD14BA088B60712</key>
 		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>7E43295AB09D4BA888C678C8</string>
-			<key>targetProxy</key>
-			<string>ECAFEDC6F69E4A44A4FE1441</string>
-		</dict>
-		<key>A4353F796BC34115A80B04FA</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>09CEB529C24A410D82804519</string>
-				<string>4A7990D97C674C50A4F92C0C</string>
-				<string>C052751C89E04CABA4E1C225</string>
-				<string>2716672C42C2413DADE17400</string>
-				<string>8AC726096FA5468BAC51064A</string>
-				<string>5DD849A2790F40BD818E848F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
 			<key>name</key>
-			<string>Pods-acokit-tests-ios</string>
+			<string>EXPMatcherHelpers.m</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatcherHelpers.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>A4F83FDB14E74879890636FF</key>
+		<key>78CD3E1E836B4D3C85148F0B</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>CAB60FAC59C247B7B0FD71B4</string>
-				<string>73D48A89D4E24930BF7B65F2</string>
-				<string>FB9463B4D6F84C83A591C5EA</string>
-				<string>3A5D5D59A742499D86ED9992</string>
-				<string>FEBED931DE51442698957B6C</string>
-				<string>FAFB3B1A6256452089B7D995</string>
-				<string>970EBA13A0D14C63B18046DF</string>
-				<string>1A79204B44CC4CEF8CE9B631</string>
-				<string>C705A0EE19A644C3A0045F6F</string>
-				<string>47C804F7945940138E618575</string>
-				<string>221B70590F7C49198BA6B4F4</string>
-				<string>E581CD5255964FFFA4296C76</string>
-				<string>33C8B01062F947279A9F76D9</string>
-				<string>D32FEF3614D34B749036EF19</string>
-				<string>697E08C1F1844050A6228968</string>
-				<string>37788E06CE824D56B0AB4ECC</string>
-				<string>776AC501CF0641128337914B</string>
-				<string>41C4A78F58B545DEAA021B5C</string>
-				<string>EB6E5233BBD444A59025B646</string>
-				<string>A2F928CB0B474D99927543F9</string>
-				<string>FDDD1CEE449D409885E12589</string>
-				<string>3E5135348BEC49E49493B266</string>
-				<string>A67B957FBFD54F8DA60D79E6</string>
-				<string>E72941B81D2248A6A5A8A087</string>
-				<string>659FB20A9E1748A9B54BB0C2</string>
-				<string>DE5C37B967B543AD8C11D73F</string>
-				<string>C83F09122F684B72A7C73908</string>
-				<string>D2EF192765CE4075856D0F16</string>
-				<string>016325A5586C405D88CB0C7F</string>
-				<string>EB851B5CC2674C24BEDDE265</string>
-				<string>F6995DF05DF14F1498B324AA</string>
-				<string>D238D00A25A84311956F8EB6</string>
-				<string>AE03DA6EF8684263B458951A</string>
-			</array>
+			<key>fileRef</key>
+			<string>DC471D614C5B4D819295FC41</string>
 			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
 		</dict>
-		<key>A5BDFD47F48F417F885A9751</key>
+		<key>793684CE57324BDD8CC4E3FA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3DB714E62E2F4898B35BAD1E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>7A4CE3648B744AE7AD20D80B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B0834EACFF7D432A8FB50E06</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>7A5EE2B314C14B5689951919</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPMatchers+beSubclassOf.m</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beSubclassOf.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>7C778F3D127640D883928139</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKAnyArgumentMatcher.m</string>
+			<key>path</key>
+			<string>Sources/MCKAnyArgumentMatcher.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>7CDCF7036365416EB84821F5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>95264B45E12D4A0C980604C2</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>7D10C5F6CAC74F4CB482A1C5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B038BEC5E4ED4B3FBCAD154F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>7D43E1C6EDEE43578BB00EDA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>1A432C3946B54B1F91650136</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>7E61B13F1C764BA8AA2D683E</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1688,23 +2439,1501 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>NSValue+Expecta.h</string>
+			<string>EXPMatcherHelpers.h</string>
 			<key>path</key>
-			<string>src/NSValue+Expecta.h</string>
+			<string>src/matchers/EXPMatcherHelpers.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>A67B957FBFD54F8DA60D79E6</key>
+		<key>7E868175C5D147D69F081B4A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKVerificationHandler.h</string>
+			<key>path</key>
+			<string>Sources/MCKVerificationHandler.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>7F1DA55B68A44BAC9B2649CB</key>
 		<dict>
 			<key>fileRef</key>
-			<string>3732138E42FB4C10A2030A00</string>
+			<string>A5EAFD0D81B543509E46C25F</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>A81DA3B22952494BB9C2CC50</key>
+		<key>7F541E82F249437FBE0B3EA0</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKInvocationVerifier.h</string>
+			<key>path</key>
+			<string>Sources/MCKInvocationVerifier.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8040B57F5C094FFEA1C89758</key>
+		<dict>
+			<key>fileRef</key>
+			<string>EC82B4F0BBBF441BACCCFFB6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>80EFA986EC714D309FD8A6AB</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D6FC98BE094E4795AC4C0080</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>8238C7F3162940F9B1EC7C13</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>09CEB529C24A410D82804519</string>
+			<string>38CA0E69E3FD487E942F7FC5</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>ARCHS</key>
+				<string>$(ARCHS_STANDARD_INCLUDING_64_BIT)</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>YES</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_C_LANGUAGE_STANDARD</key>
+				<string>gnu99</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Pods-acokit-tests-ios-Mocka-prefix.pch</string>
+				<key>GCC_VERSION</key>
+				<string>com.apple.compilers.llvm.clang.1_0</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>5.0</string>
+				<key>OTHER_CFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_CPLUSPLUSFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>VALIDATE_PRODUCT</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>824CA1FCD02C4C209BEB4C15</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Pods-acokit-tests-ios-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>827ECE947D654CB792824B2C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>NSInvocation+MCKArgumentHandling.h</string>
+			<key>path</key>
+			<string>Sources/NSInvocation+MCKArgumentHandling.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8300AB935D8C4D0E9C29D382</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKInOrderCollector.m</string>
+			<key>path</key>
+			<string>Sources/MCKInOrderCollector.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>833321F0D3C34D2899021D17</key>
+		<dict>
+			<key>fileRef</key>
+			<string>9BD5C8FA51B34CD3B929940C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>83675C975E774C189E6AAB56</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>C65468CBE1794008819AA4BC</string>
+				<string>02D4FF6053A44838B5B3C4B7</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>84C2FCEB327B4BD681C9E2C5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>9F39FBE27DD44D0EAC568322</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>84F266D7B43F4896A00A9283</key>
+		<dict>
+			<key>fileRef</key>
+			<string>FE70029ED5DC4C5AB9CFF20F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>8553B8A437244E8A95066359</key>
+		<dict>
+			<key>fileRef</key>
+			<string>EC74CAF914A64E77A0D257D8</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>857703A1EE774F95A9ACD34E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>827ECE947D654CB792824B2C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>86196E6BCF7D40E5941C30CA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>30B21378198645DB96E3314E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>86975FA808034460A11EDDEF</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B8043E87C06C4BA4A4F8C128</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>8704A250EE12436794A20F83</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-acokit-tests-ios.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>87D756814C2A42B6ADC8794D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKLocation.h</string>
+			<key>path</key>
+			<string>Sources/MCKLocation.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>87F1C40BA7124E45AEC0A7D0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>467E1CA9F9C5462498CB5F65</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>8880B6EF2EA74817AE154213</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKInvocationStubber.m</string>
+			<key>path</key>
+			<string>Sources/MCKInvocationStubber.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>88984A8062D54A78AD92E9A6</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Pods-acokit-tests-ios-acknowledgements.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8900602554E046D480E3D0A9</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6B02EC6CE7C24373A61FE1F7</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>890399EAB50F4ED79205753B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>9D83927A61DC40F585F8554C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>8910D717D4294BC0995CAD89</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8E2C523967374DD2B458EBCA</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>8955D8784FF24440B603FF71</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKInvocationStubber.h</string>
+			<key>path</key>
+			<string>Sources/MCKInvocationStubber.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8D773BF3F0DA4DF3ABEEDBFD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E0C086A639AA4797A6F6BC15</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>8E2C523967374DD2B458EBCA</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+beLessThanOrEqualTo.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beLessThanOrEqualTo.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8E97171BAE644D6D834EFA13</key>
+		<dict>
+			<key>fileRef</key>
+			<string>CFED858998684B4CA28DDC35</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>8ED87B2753EF44B986E3D2D4</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPBlockDefinedMatcher.h</string>
+			<key>path</key>
+			<string>src/EXPBlockDefinedMatcher.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>90DA81E519B5468EB01174B6</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPBackwardCompatibility.m</string>
+			<key>path</key>
+			<string>src/EXPBackwardCompatibility.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>92634CC80BB544CEA5AD47A8</key>
+		<dict>
+			<key>fileRef</key>
+			<string>99241A0230DD46FCA65DBDF6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>92712215989941D382EA3471</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKTypeEncodings.m</string>
+			<key>path</key>
+			<string>Sources/MCKTypeEncodings.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9296F87BFEA64B8285AF460E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+contain.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+contain.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>92BC41E8714C4294BC207DDF</key>
+		<dict>
+			<key>fileRef</key>
+			<string>04B85BB5A1C145B8A2D49929</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>935B5A0BFA3F4D26B122327B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKXCTestFailureHandler.m</string>
+			<key>path</key>
+			<string>Sources/MCKXCTestFailureHandler.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>93A5C206F4484BE19470E9B0</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPMatchers+beInstanceOf.m</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beInstanceOf.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>93BA35A611A84A64AA8B1DF3</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatcher.h</string>
+			<key>path</key>
+			<string>src/EXPMatcher.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>93F6E9DFF55B41CCA4332FE4</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3F207491F8F642B6A876C7BB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>95264B45E12D4A0C980604C2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKInvocationPrototype.h</string>
+			<key>path</key>
+			<string>Sources/MCKInvocationPrototype.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>962516827BA64F099EA351D1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>28042351F6D24B7AB605458E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>97780D0DDF4A437EA7E4D6DC</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>14454C77B3224ECC9B1F2C85</string>
+				<string>4B5137C573CC4E85ACD9E8CB</string>
+				<string>175E6183E8E7484DBF5FAE14</string>
+				<string>1450255AE8B34ED392D7789E</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>97D5A1D8D53749DF995672E6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F4CA663D7F0E4602A6FD2ACE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>98205F4B29DD404EA0A275E1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>FD68852BEC6D4B27A36CF3BD</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>987E89934C7F4351BB4ACA92</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>NSObject+Expecta.h</string>
+			<key>path</key>
+			<string>src/NSObject+Expecta.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>988D49D5BF7D48768061F759</key>
+		<dict>
+			<key>fileRef</key>
+			<string>44AF0C80844C4B72BB4FFEBB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>98AC1F554B6E4AC6B44161AF</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKVerificationSyntax.m</string>
+			<key>path</key>
+			<string>Sources/MCKVerificationSyntax.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>99241A0230DD46FCA65DBDF6</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPExpect.m</string>
+			<key>path</key>
+			<string>src/EXPExpect.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9962438A20AF4349B777C4B8</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E83D337A9DDE431FADBB1019</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>99F1EB81153C4A75B2416076</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>FF3F3F6ABB1D47359219F8CD</string>
+				<string>3E628B9AC66142259A0D1548</string>
+				<string>83675C975E774C189E6AAB56</string>
+				<string>3C81257820DB465EBAD6AFEA</string>
+				<string>1420E3E61EBA462F91F87241</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9A847DF490564235A6AC0745</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>OHHTTPStubsResponse+HTTPMessage.h</string>
+			<key>path</key>
+			<string>Sources/OHHTTPStubsResponse+HTTPMessage.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9A87E40FAFC34E56BADEE7C7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPMatchers+equal.m</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+equal.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9BAB2B29C34346CE80E55238</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPMatchers+raiseWithReason.m</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+raiseWithReason.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9BD5C8FA51B34CD3B929940C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>Expecta.m</string>
+			<key>path</key>
+			<string>src/Expecta.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9C7DD6D51D144F4DBFB19939</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>2A69831B9F1C419481220A77</string>
+			<key>buildPhases</key>
+			<array>
+				<string>B110E0FE1DF94572B61A3DA5</string>
+				<string>0CA95DA9D0A440A49752140B</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>1B1BB815A5B84F3F93D5FC0D</string>
+				<string>C4F29FD313DF41D7B2868807</string>
+			</array>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods-acokit-tests-ios</string>
+			<key>productName</key>
+			<string>Pods-acokit-tests-ios</string>
+			<key>productReference</key>
+			<string>153CAA93A4B14689B5EBED47</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>9D83927A61DC40F585F8554C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKInvocationPrototype.m</string>
+			<key>path</key>
+			<string>Sources/MCKInvocationPrototype.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9F346CA37259448DBAB62BD9</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3CECBFE144974ED99A5BDFF4</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>9F39FBE27DD44D0EAC568322</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKArgumentMatcher.m</string>
+			<key>path</key>
+			<string>Sources/MCKArgumentMatcher.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9FE2C1C65E494A66A95CFB2B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPMatchers+beLessThan.m</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beLessThan.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A04F0E828FB84001A3EAA6C3</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKExactlyVerificationHandler.h</string>
+			<key>path</key>
+			<string>Sources/MCKExactlyVerificationHandler.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A09FC5121947418B9AA2492C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>662EED851F7C4249BFC91942</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>A1698AA14E94445EBA7C41AB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPMatchers+beLessThanOrEqualTo.m</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beLessThanOrEqualTo.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A1DC7CC3830B4F7D92A87DC3</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E2896AE891A443619A78E442</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>A4733C70829B473EB8FF808D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPMatchers+beInTheRangeOf.m</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beInTheRangeOf.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A59D30A9996342859AD4D670</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKArgumentMatcherRecorder.h</string>
+			<key>path</key>
+			<string>Sources/MCKArgumentMatcherRecorder.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A5EAFD0D81B543509E46C25F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+beTruthy.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beTruthy.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A63D729F715C4D67B1610E36</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKExceptionFailureHandler.h</string>
+			<key>path</key>
+			<string>Sources/MCKExceptionFailureHandler.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A706EB07B0B04DDE9762C5AC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKDefaultVerificationHandler.h</string>
+			<key>path</key>
+			<string>Sources/MCKDefaultVerificationHandler.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>AB6E5E85D96C49D18DB867DA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A4733C70829B473EB8FF808D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>AEF1E05EE0BD4DF4AF352355</key>
+		<dict>
+			<key>fileRef</key>
+			<string>BCF13A72AF6C4AAAB58596D1</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>AF495D1706F946D88C9C59FD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D456ABF0CDA341D9B7C408B4</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B038BEC5E4ED4B3FBCAD154F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKMockObject.m</string>
+			<key>path</key>
+			<string>Sources/MCKMockObject.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B0834EACFF7D432A8FB50E06</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKStubbingSyntax.h</string>
+			<key>path</key>
+			<string>Sources/MCKStubbingSyntax.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B110E0FE1DF94572B61A3DA5</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>67E0605561334F5C8E166AB3</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>B16331C51E6A46DFAC39A338</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+haveCountOf.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+haveCountOf.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B1E6B868F57746B2AFA3CF93</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>4B5137C573CC4E85ACD9E8CB</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>ARCHS</key>
+				<string>$(ARCHS_STANDARD_INCLUDING_64_BIT)</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>YES</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_C_LANGUAGE_STANDARD</key>
+				<string>gnu99</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Pods-acokit-tests-ios-Expecta-prefix.pch</string>
+				<key>GCC_VERSION</key>
+				<string>com.apple.compilers.llvm.clang.1_0</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>5.0</string>
+				<key>OTHER_CFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_CPLUSPLUSFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>VALIDATE_PRODUCT</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>B24D1587FC8B495C91D213D3</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>4C0973707387414FB6B16E27</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>B30B406759A540778AC07B4D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C273CBF49DE44F6D9D45D2ED</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B4C61128F6C44ECBB834F022</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPFloatTuple.m</string>
+			<key>path</key>
+			<string>src/EXPFloatTuple.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B52B50339E0A4AFC8DCFFD31</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+beInstanceOf.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beInstanceOf.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B5C4D52ED1A5438182C97A29</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKArgumentMatcher.h</string>
+			<key>path</key>
+			<string>Sources/MCKArgumentMatcher.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B5DFEB6AFA41401D87899544</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPMatchers+beNil.m</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beNil.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B62262848F024A8396EB119D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D3EC0B49CD5143389E44EE9F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B72ABB2314D7444A91E4045D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F9C46CA9612F42D88A54C1D8</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B7AB3D4126654480A05F09C6</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>libPods-acokit-tests-ios-Mocka.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>B8043E87C06C4BA4A4F8C128</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKLocation.m</string>
+			<key>path</key>
+			<string>Sources/MCKLocation.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B8FDC4F60E054338BD048B54</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C515A2E6C1214AD3B872C1E3</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B95425D4B8474F418ED660EE</key>
+		<dict>
+			<key>fileRef</key>
+			<string>1CEA71D353E44579A25D3C88</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B96880E9EE874369BB0AB49A</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A04F0E828FB84001A3EAA6C3</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B9F711B65CDE40B99D2E611B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F47C9B97854D4716883E1EB6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>BAA3C579CC564DAC9D9FC555</key>
+		<dict>
+			<key>fileRef</key>
+			<string>417B5411CAB64BC1BBAD01C3</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>BB559D78882B4C35B24C08B1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2B1AEEFDB9AB48079BBA71DA</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>BBBF47E714DB475497D7EC4B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKMockingSyntax.h</string>
+			<key>path</key>
+			<string>Sources/MCKMockingSyntax.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>BC785BFF14C64564ABD5974D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>93A5C206F4484BE19470E9B0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>BCF13A72AF6C4AAAB58596D1</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKVerificationResultCollector.h</string>
+			<key>path</key>
+			<string>Sources/MCKVerificationResultCollector.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>BEABEAE0F41A43A0B14835A3</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKBlockWrapper.m</string>
+			<key>path</key>
+			<string>Sources/MCKBlockWrapper.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C003B8A4FE2343CBAE45F38D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKNeverVerificationHandler.h</string>
+			<key>path</key>
+			<string>Sources/MCKNeverVerificationHandler.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C04CEC8D07EB4A41AF112C6B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E7EF3F3C5BC644FEBF0A9FE0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>C0BD4577BA2B4001B62078D7</key>
+		<dict>
+			<key>fileRef</key>
+			<string>22EF077C1D114939B0431FD3</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>C1A05E92671D4D759F8E1EA0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F35ECA0796DF442B96837B21</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>C273CBF49DE44F6D9D45D2ED</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>ExpectaSupport.m</string>
+			<key>path</key>
+			<string>src/ExpectaSupport.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C2EA369E88724C5B8BFA5E3E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>722D131227AD4425AFACDDEF</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>C4F29FD313DF41D7B2868807</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>target</key>
+			<string>3DF4DD750A884839ADF82947</string>
+			<key>targetProxy</key>
+			<string>354BD0C5D19849C48F617214</string>
+		</dict>
+		<key>C515A2E6C1214AD3B872C1E3</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+raiseWithReason.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+raiseWithReason.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C568E53102CC42B4BC5461AF</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A706EB07B0B04DDE9762C5AC</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>C61B7B84D6EF43D299B569D6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>51782BFF6D654D7CA8242CFD</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>C65468CBE1794008819AA4BC</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>16382468E42D45FBA70FB2DC</string>
+				<string>90DA81E519B5468EB01174B6</string>
+				<string>8ED87B2753EF44B986E3D2D4</string>
+				<string>E48BEB95F67B4D15B093DB9D</string>
+				<string>34CE3470421C4FF68BE43942</string>
+				<string>D7AEF65C42B6429E80159F06</string>
+				<string>D6FC98BE094E4795AC4C0080</string>
+				<string>EC7064184A934AD98618EF71</string>
+				<string>99241A0230DD46FCA65DBDF6</string>
+				<string>E2896AE891A443619A78E442</string>
+				<string>B4C61128F6C44ECBB834F022</string>
+				<string>93BA35A611A84A64AA8B1DF3</string>
+				<string>7E61B13F1C764BA8AA2D683E</string>
+				<string>7746D1EBABD14BA088B60712</string>
+				<string>E83D337A9DDE431FADBB1019</string>
+				<string>F35ECA0796DF442B96837B21</string>
+				<string>222E07C70C074346AC1715BB</string>
+				<string>03D02B3D34A84B9FA1CE3B9E</string>
+				<string>56241351EC654BB8A741859D</string>
+				<string>3501178DDBAD4705AF87A758</string>
+				<string>1CEA71D353E44579A25D3C88</string>
+				<string>C92FF55306B245B29DD270B0</string>
+				<string>F5C88DFABC524579B75C3FBC</string>
+				<string>64BC409A168643ECB922A4A5</string>
+				<string>DAE26816D3434C9AA2664102</string>
+				<string>678DEC1F34EA4415AA057640</string>
+				<string>A4733C70829B473EB8FF808D</string>
+				<string>B52B50339E0A4AFC8DCFFD31</string>
+				<string>93A5C206F4484BE19470E9B0</string>
+				<string>CB3CBF3EF04E4E2ABE9942E2</string>
+				<string>0ADC35C7AEA94487849D0063</string>
+				<string>3554777A79C1419E935E5312</string>
+				<string>9FE2C1C65E494A66A95CFB2B</string>
+				<string>8E2C523967374DD2B458EBCA</string>
+				<string>A1698AA14E94445EBA7C41AB</string>
+				<string>3CB579EC4A1D46889D0C66EA</string>
+				<string>B5DFEB6AFA41401D87899544</string>
+				<string>E4790F58CA024C6382B4F362</string>
+				<string>7A5EE2B314C14B5689951919</string>
+				<string>A5EAFD0D81B543509E46C25F</string>
+				<string>53CA035518E64240AFB2ADCB</string>
+				<string>5A4E4DB08F8848D1B4BDD307</string>
+				<string>D456ABF0CDA341D9B7C408B4</string>
+				<string>9296F87BFEA64B8285AF460E</string>
+				<string>2DFF13A6ACE84C42A1A5795D</string>
+				<string>3CECBFE144974ED99A5BDFF4</string>
+				<string>9A87E40FAFC34E56BADEE7C7</string>
+				<string>B16331C51E6A46DFAC39A338</string>
+				<string>25D5DC483C31407CAA3ADF78</string>
+				<string>3DB714E62E2F4898B35BAD1E</string>
+				<string>DE767A7669A942D9BBE3386C</string>
+				<string>C515A2E6C1214AD3B872C1E3</string>
+				<string>9BAB2B29C34346CE80E55238</string>
+				<string>204C71F1482B457AB1EB00A9</string>
+				<string>6EB85AA6976B484295EFDC36</string>
+				<string>1A432C3946B54B1F91650136</string>
+				<string>9BD5C8FA51B34CD3B929940C</string>
+				<string>F9C46CA9612F42D88A54C1D8</string>
+				<string>C273CBF49DE44F6D9D45D2ED</string>
+				<string>987E89934C7F4351BB4ACA92</string>
+				<string>CEC19DC686D2496887155317</string>
+				<string>F096EF65EA234A12A74D7B67</string>
+				<string>97780D0DDF4A437EA7E4D6DC</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Expecta</string>
+			<key>path</key>
+			<string>Expecta</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C92FF55306B245B29DD270B0</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+beGreaterThanOrEqualTo.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beGreaterThanOrEqualTo.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>CA8380C2DF384AE8B312A950</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2D3C81903F1D4969A5AB8C4D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>CAF379EE0AEA42C7ADD7D0A0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B16331C51E6A46DFAC39A338</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>CB3CBF3EF04E4E2ABE9942E2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+beKindOf.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beKindOf.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>CDBE120ECA6F43FF95F3F669</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>8704A250EE12436794A20F83</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
@@ -1752,7 +3981,14 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>AA2C4FFC3DB84694857FC654</key>
+		<key>CE1EFC989D6D4118AF5025C8</key>
+		<dict>
+			<key>fileRef</key>
+			<string>93BA35A611A84A64AA8B1DF3</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>CEC19DC686D2496887155317</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1761,342 +3997,88 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>EXPMatchers+beLessThanOrEqualTo.h</string>
+			<string>NSValue+Expecta.h</string>
 			<key>path</key>
-			<string>src/matchers/EXPMatchers+beLessThanOrEqualTo.h</string>
+			<string>src/NSValue+Expecta.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>AA62BD9A121440288E9DCC93</key>
+		<key>CF62AC1B3B3440F996C1A082</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
+			<key>buildConfigurations</key>
 			<array>
-				<string>762F785EF3804F50B59BB766</string>
+				<string>768AD9CFD5A94C47874E3678</string>
+				<string>B1E6B868F57746B2AFA3CF93</string>
 			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
+			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
 		</dict>
-		<key>AA823EAA2E3D4F5890F7EDAE</key>
+		<key>CFED858998684B4CA28DDC35</key>
 		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastUpgradeCheck</key>
-				<string>0500</string>
-			</dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKInvocationVerifier.m</string>
+			<key>path</key>
+			<string>Sources/MCKInvocationVerifier.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D0EC565AED4445098A9F0771</key>
+		<dict>
+			<key>fileRef</key>
+			<string>222E07C70C074346AC1715BB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>D1216150EA7E42A2945733D8</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DAE26816D3434C9AA2664102</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>D16CD21F844D4AE2898B613C</key>
+		<dict>
 			<key>buildConfigurationList</key>
-			<string>20E45045723B444E94252C83</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
+			<string>CF62AC1B3B3440F996C1A082</string>
+			<key>buildPhases</key>
 			<array>
-				<string>en</string>
+				<string>D71A0469DBFF496491AB1005</string>
+				<string>B24D1587FC8B495C91D213D3</string>
+				<string>4BD0BD35A45343BCB1D9E60E</string>
 			</array>
-			<key>mainGroup</key>
-			<string>47B2D1DE4F8D4E89B56D5697</string>
-			<key>productRefGroup</key>
-			<string>85431D498E744E0A9C8BD808</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
+			<key>buildRules</key>
 			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>4097023BBBB94A01ADA4399F</string>
-				<string>7E43295AB09D4BA888C678C8</string>
-			</array>
-		</dict>
-		<key>ABDEF800144F42B183268FD7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>dependencies</key>
+			<array/>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>PBXNativeTarget</string>
 			<key>name</key>
-			<string>ExpectaSupport.h</string>
-			<key>path</key>
-			<string>src/ExpectaSupport.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>Pods-acokit-tests-ios-Expecta</string>
+			<key>productName</key>
+			<string>Pods-acokit-tests-ios-Expecta</string>
+			<key>productReference</key>
+			<string>4E6D73AA3FF34A58A33066D1</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
 		</dict>
-		<key>AD06231A6E554CFD99833DEB</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5571760A79B544218C4068D4</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>AE03DA6EF8684263B458951A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A5BDFD47F48F417F885A9751</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>B363E291A85C49E6AD5FDE6B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>EXPMatchers+beInstanceOf.h</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+beInstanceOf.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B571EA623E274C7C89D03895</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>ExpectaSupport.m</string>
-			<key>path</key>
-			<string>src/ExpectaSupport.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BC7AD7D13EC8488C9AC9FCE5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5DF94E9455DF4FCDB7C99006</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>BF8C0B65D5974BF79A6B7842</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPMatchers+beIdenticalTo.m</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+beIdenticalTo.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C052751C89E04CABA4E1C225</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-acokit-tests-ios-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C088D12989C444408822410B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>37C5E3B26DD84836BDD6E23E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C36DAA849BFD4A699BF92C6E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPMatchers+conformTo.m</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+conformTo.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C705A0EE19A644C3A0045F6F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>601561C2A6A7483FADC6457D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C83F09122F684B72A7C73908</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0B1D611457334C26A13BE4A0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C89677FC29EB4053AA1A802F</key>
+		<key>D1FA072E83494D03BDA2965E</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>A4353F796BC34115A80B04FA</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C8EDA1FF75D14DA091C6CE13</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-acokit-tests-ios-Expecta-Private.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CAB60FAC59C247B7B0FD71B4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5A69A205CD6F4C589D47B713</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>CE74413616464F60A249E8E0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPMatchers+beSubclassOf.m</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+beSubclassOf.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CFFB955017ED49ED8D56B07B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3AC0FB20764844AE94306A1B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>D238D00A25A84311956F8EB6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E6C2EFAA65EE42DF908F27D6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>D28294208FA545688D198CD8</key>
-		<dict>
-			<key>fileRef</key>
-			<string>66AE376B14744E1585866E3F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>D2EF192765CE4075856D0F16</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1B8CA0200CEC479A912A8BEC</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>D32FEF3614D34B749036EF19</key>
-		<dict>
-			<key>fileRef</key>
-			<string>540EA5B66B0F443FAC543B70</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>D41779208A324D18B3165971</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPMatchers+equal.m</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+equal.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D8FB7B7A61644F6EA3FD30F4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>EXPUnsupportedObject.h</string>
-			<key>path</key>
-			<string>src/EXPUnsupportedObject.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DAF06E646E674873AF24AE16</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>EXPBlockDefinedMatcher.h</string>
-			<key>path</key>
-			<string>src/EXPBlockDefinedMatcher.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DE5C37B967B543AD8C11D73F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2F29570B21F74005A86591D9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>DF576D2F6D4A4B3E9F877024</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4C8FFD9103354457BC9D4ADE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E29EDBFD9FEF4442B7568736</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>844D95B24E054B2E912157C7</string>
-				<string>C8EDA1FF75D14DA091C6CE13</string>
-				<string>05D6900F8EB640F7AA5D9E31</string>
-				<string>4E556C9ABC0E42B1B014B1D6</string>
+				<string>590878CD77FF4327829CD1BD</string>
+				<string>38CA0E69E3FD487E942F7FC5</string>
+				<string>FD68852BEC6D4B27A36CF3BD</string>
+				<string>E2F2A31F8906492C8281B7BC</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -2105,158 +4087,19 @@
 			<key>sourceTree</key>
 			<string>SOURCE_ROOT</string>
 		</dict>
-		<key>E581CD5255964FFFA4296C76</key>
+		<key>D26D6CB09D914B368BD897CA</key>
 		<dict>
 			<key>fileRef</key>
-			<string>8A45CEB0D19443758A5B5859</string>
+			<string>98AC1F554B6E4AC6B44161AF</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
 		</dict>
-		<key>E6121D38B0DC475FA0BA5359</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>EXPMatchers+beInTheRangeOf.m</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+beInTheRangeOf.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E6C2EFAA65EE42DF908F27D6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>NSObject+Expecta.h</string>
-			<key>path</key>
-			<string>src/NSObject+Expecta.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E6CBAEEEE21C446987B57C0F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>EXPExpect.h</string>
-			<key>path</key>
-			<string>src/EXPExpect.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E6D7C0E1B6854D2497B1ECCE</key>
-		<dict>
-			<key>fileRef</key>
-			<string>BF8C0B65D5974BF79A6B7842</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E72941B81D2248A6A5A8A087</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F86743F02D454179832F1E94</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E91239A23A744130A4C41E26</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>EXPMatchers+beFalsy.h</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+beFalsy.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EB6E5233BBD444A59025B646</key>
-		<dict>
-			<key>fileRef</key>
-			<string>31908FF395284C5E9D9AE2B9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>EB851B5CC2674C24BEDDE265</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FA2937F1D3A8469D8B9947B7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>ECAFEDC6F69E4A44A4FE1441</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>AA823EAA2E3D4F5890F7EDAE</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>7E43295AB09D4BA888C678C8</string>
-			<key>remoteInfo</key>
-			<string>Pods-acokit-tests-ios-Expecta</string>
-		</dict>
-		<key>F084620334E349B6800B0D92</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5D5A159E5EBF4E3E95444883</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F22FAD50B6EC471F967C91FC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>EXPMatchers+beSubclassOf.h</string>
-			<key>path</key>
-			<string>src/matchers/EXPMatchers+beSubclassOf.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F52D6D8A87074080BA257098</key>
-		<dict>
-			<key>fileRef</key>
-			<string>43B08BC972AF4133A2C02299</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F6995DF05DF14F1498B324AA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>ABDEF800144F42B183268FD7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F7A34CCC753C4398B59C0F90</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9250A0A687B24D1F8D133F9A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F7B85BB0BA2146D1841A8632</key>
+		<key>D2B9333A5BE24AC29F67EF34</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -2323,7 +4166,14 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>F86743F02D454179832F1E94</key>
+		<key>D3BE7A8B15E04B6CA762DB0B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>9A847DF490564235A6AC0745</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>D3EC0B49CD5143389E44EE9F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2332,26 +4182,520 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>EXPMatchers+equal.h</string>
+			<string>XCTestCase+MCKContextLoading.h</string>
 			<key>path</key>
-			<string>src/matchers/EXPMatchers+equal.h</string>
+			<string>Sources/XCTestCase+MCKContextLoading.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>F9DDBEAD966E47B5854A3D77</key>
+		<key>D456ABF0CDA341D9B7C408B4</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPMatchers+conformTo.m</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+conformTo.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D488FD0829FB4E64881CE4B5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>192175A4EA684181AC89F67F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>D5B3ED9B7E0F4062A7C3B0CE</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F313649A2A1B467DA3798D5A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>D6BA963EDEA74CC18E5B5CE4</key>
+		<dict>
+			<key>fileRef</key>
+			<string>29DAFEC3F4844EBB8BC5FC88</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>D6FC98BE094E4795AC4C0080</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPDoubleTuple.m</string>
+			<key>path</key>
+			<string>src/EXPDoubleTuple.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D71A0469DBFF496491AB1005</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>49D7A90B8C3940ECB8F0EAC0</string>
+				<string>F47BDA7740094349A21C1090</string>
+				<string>80EFA986EC714D309FD8A6AB</string>
+				<string>92634CC80BB544CEA5AD47A8</string>
+				<string>0E1C7D8B94EE47CE99A6A22E</string>
+				<string>E3DF5C372D364399A8BD0304</string>
+				<string>D0EC565AED4445098A9F0771</string>
+				<string>4A3072341B2A4CC18C69746F</string>
+				<string>B95425D4B8474F418ED660EE</string>
+				<string>209C80A97F9B4B45A8E3BD9D</string>
+				<string>D1216150EA7E42A2945733D8</string>
+				<string>AB6E5E85D96C49D18DB867DA</string>
+				<string>BC785BFF14C64564ABD5974D</string>
+				<string>047C88A07CB747479F28DC5D</string>
+				<string>23AE616BD83642D48D7C0DCF</string>
+				<string>4762C3140D7F4E9A9A3B3B73</string>
+				<string>1F12FD79128E43A2BFFE6805</string>
+				<string>03575192F24947BAAD54BD29</string>
+				<string>F7CF17D52CB7463B9D48B650</string>
+				<string>AF495D1706F946D88C9C59FD</string>
+				<string>2AA2E8CF2495419CBBBC1FB4</string>
+				<string>F38B295D38374D718FA599E8</string>
+				<string>2E5C34AE67654F47928A0499</string>
+				<string>4A9AD77DB5E9426CA9185FBD</string>
+				<string>06124E43B0FD4C10B15D5B01</string>
+				<string>4A3405B56A4E4978B2C159DF</string>
+				<string>833321F0D3C34D2899021D17</string>
+				<string>B30B406759A540778AC07B4D</string>
+				<string>662B042A2FCA4A209DE78096</string>
+				<string>FCA54F0F75CE484B866FFDBB</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>D782F2FC8FEE47AFBFCCB48A</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3FAC14F9E0814AE0998DF6CC</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>D7AEF65C42B6429E80159F06</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPDoubleTuple.h</string>
+			<key>path</key>
+			<string>src/EXPDoubleTuple.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D96B4A8D04CF4A1DB825D353</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>29E15D9A6F78419C8373D646</string>
+				<string>76E08050F8F94019A9384982</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>DA0326C4EADD46779608AF2B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3A0E26574C0C49C4AC222B17</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>DAE26816D3434C9AA2664102</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPMatchers+beIdenticalTo.m</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beIdenticalTo.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DC471D614C5B4D819295FC41</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKDefaultVerificationHandler.m</string>
+			<key>path</key>
+			<string>Sources/MCKDefaultVerificationHandler.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DD9E1CBC73384865BA749663</key>
+		<dict>
+			<key>fileRef</key>
+			<string>05BEC41DE14C4825AB528E0D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>DE767A7669A942D9BBE3386C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPMatchers+raise.m</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+raise.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DFD6D2EADC33490AA3DEED4C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7E868175C5D147D69F081B4A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>E0C086A639AA4797A6F6BC15</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKSenTestFailureHandler.m</string>
+			<key>path</key>
+			<string>Sources/MCKSenTestFailureHandler.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E2896AE891A443619A78E442</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPFloatTuple.h</string>
+			<key>path</key>
+			<string>src/EXPFloatTuple.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E2F2A31F8906492C8281B7BC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Pods-acokit-tests-ios-Mocka-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E3DF5C372D364399A8BD0304</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7746D1EBABD14BA088B60712</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>E3E956AF7520469EAC5F7687</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>NSInvocation+MCKArgumentHandling.m</string>
+			<key>path</key>
+			<string>Sources/NSInvocation+MCKArgumentHandling.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E43EBEEB716743D982691BA6</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKNeverVerificationHandler.m</string>
+			<key>path</key>
+			<string>Sources/MCKNeverVerificationHandler.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E4790F58CA024C6382B4F362</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+beSubclassOf.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beSubclassOf.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E48BEB95F67B4D15B093DB9D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPBlockDefinedMatcher.m</string>
+			<key>path</key>
+			<string>src/EXPBlockDefinedMatcher.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E50279F303F84852A56C0BBA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2FE16D40DD4A413CBEADB682</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>COMPILER_FLAGS</key>
+				<string>-fobjc-arc -DOS_OBJECT_USE_OBJC=0</string>
+			</dict>
+		</dict>
+		<key>E6B081C567A04F63B66080B0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>03D02B3D34A84B9FA1CE3B9E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>E7EF3F3C5BC644FEBF0A9FE0</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKArgumentMatcherRecorder.m</string>
+			<key>path</key>
+			<string>Sources/MCKArgumentMatcherRecorder.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E83D337A9DDE431FADBB1019</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E92BC18059ED4415BA716D88</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B7AB3D4126654480A05F09C6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>EC7064184A934AD98618EF71</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPExpect.h</string>
+			<key>path</key>
+			<string>src/EXPExpect.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>EC74CAF914A64E77A0D257D8</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKMockObject.h</string>
+			<key>path</key>
+			<string>Sources/MCKMockObject.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>EC82B4F0BBBF441BACCCFFB6</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKMockingContext.h</string>
+			<key>path</key>
+			<string>Sources/MCKMockingContext.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>ED84592447944889A98E927C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>252E742FF9F148628469F44B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>EE1DE06A1CFA4501A2AB42F5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3654176B852B4E7A9A1180C0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>EE702764C3D24D5080B05466</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>OHHTTPStubsResponse+JSON.h</string>
+			<key>path</key>
+			<string>Sources/OHHTTPStubsResponse+JSON.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>EFA1506483444FEF9D67714E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7E61B13F1C764BA8AA2D683E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>F0884590FA0A485DB7135DA1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3CB579EC4A1D46889D0C66EA</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>F096EF65EA234A12A74D7B67</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>NSValue+Expecta.m</string>
+			<key>path</key>
+			<string>src/NSValue+Expecta.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F112BB05AE86494281AEF37A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>MCKVerificationResult.h</string>
+			<key>path</key>
+			<string>Sources/MCKVerificationResult.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F2C1B20248034855B27E588A</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>5AEA44D92CD64F2FA8CCF0BF</string>
+				<string>8704A250EE12436794A20F83</string>
+				<string>30A0AFC2B5894F14A9FDE580</string>
+				<string>88984A8062D54A78AD92E9A6</string>
+				<string>824CA1FCD02C4C209BEB4C15</string>
+				<string>705B29E3FC4F424BA29AB65B</string>
+				<string>4A4DB33A57E44874B06F1862</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Pods</string>
+			<string>Pods-acokit-tests-ios</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>FA2937F1D3A8469D8B9947B7</key>
+		<key>F313649A2A1B467DA3798D5A</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2360,49 +4704,184 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>Expecta.h</string>
+			<string>Mocka.h</string>
 			<key>path</key>
-			<string>src/Expecta.h</string>
+			<string>Sources/Mocka.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>FAFB3B1A6256452089B7D995</key>
+		<key>F35ECA0796DF442B96837B21</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>EXPMatchers+beCloseTo.h</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beCloseTo.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F38B295D38374D718FA599E8</key>
 		<dict>
 			<key>fileRef</key>
-			<string>19512DB4799E42C991490BA4</string>
+			<string>9A87E40FAFC34E56BADEE7C7</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>FB9463B4D6F84C83A591C5EA</key>
+		<key>F47BDA7740094349A21C1090</key>
 		<dict>
 			<key>fileRef</key>
-			<string>745220F001444E088F9EA555</string>
+			<string>E48BEB95F67B4D15B093DB9D</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>FDDD1CEE449D409885E12589</key>
+		<key>F47C9B97854D4716883E1EB6</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>XCTestCase+MCKContextLoading.m</string>
+			<key>path</key>
+			<string>Sources/XCTestCase+MCKContextLoading.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F4CA663D7F0E4602A6FD2ACE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKMockingContext.m</string>
+			<key>path</key>
+			<string>Sources/MCKMockingContext.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F5C88DFABC524579B75C3FBC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>EXPMatchers+beGreaterThanOrEqualTo.m</string>
+			<key>path</key>
+			<string>src/matchers/EXPMatchers+beGreaterThanOrEqualTo.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F7CF17D52CB7463B9D48B650</key>
 		<dict>
 			<key>fileRef</key>
-			<string>7541607C32B448BBAD0011B4</string>
+			<string>53CA035518E64240AFB2ADCB</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>FEBED931DE51442698957B6C</key>
+		<key>F8F7450F59094959826A8351</key>
 		<dict>
 			<key>fileRef</key>
-			<string>E6CBAEEEE21C446987B57C0F</string>
+			<string>A63D729F715C4D67B1610E36</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>FFBCF9A29A0342798D11F4D4</key>
+		<key>F9C46CA9612F42D88A54C1D8</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>ExpectaSupport.h</string>
+			<key>path</key>
+			<string>src/ExpectaSupport.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FCA54F0F75CE484B866FFDBB</key>
 		<dict>
 			<key>fileRef</key>
-			<string>05367F82BDDF46F78D16398B</string>
+			<string>175E6183E8E7484DBF5FAE14</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>FD68852BEC6D4B27A36CF3BD</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Pods-acokit-tests-ios-Mocka-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FE70029ED5DC4C5AB9CFF20F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKSpy.m</string>
+			<key>path</key>
+			<string>Sources/MCKSpy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FE90E109937140EEA3D6719F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>MCKExceptionFailureHandler.m</string>
+			<key>path</key>
+			<string>Sources/MCKExceptionFailureHandler.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FF3F3F6ABB1D47359219F8CD</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text</string>
+			<key>name</key>
+			<string>Podfile</string>
+			<key>path</key>
+			<string>../Podfile</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+			<key>xcLanguageSpecificationIdentifier</key>
+			<string>xcode.lang.ruby</string>
 		</dict>
 	</dict>
 	<key>rootObject</key>
-	<string>AA823EAA2E3D4F5890F7EDAE</string>
+	<string>4D71399086BB496AB3C0002C</string>
 </dict>
 </plist>

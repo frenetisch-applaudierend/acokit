@@ -1,0 +1,1 @@
+../../Mocka/Sources/MCKVerificationResultCollector.h

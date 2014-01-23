@@ -1,0 +1,2 @@
+PODS_ACOKIT_TESTS_IOS_MOCKA_FRAMEWORK_SEARCH_PATHS = $(inherited) "$(SDKROOT)/Developer/Library/Frameworks"
+PODS_ACOKIT_TESTS_IOS_MOCKA_OTHER_LDFLAGS = -framework Foundation -framework XCTest

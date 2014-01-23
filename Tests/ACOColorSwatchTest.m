@@ -23,7 +23,7 @@
 
 - (void)setUp
 {
-    blankColorData = ACOColorDataFromComponents((uint16_t[]){ 0.0f, 0.0f, 0.0f, 0.0f });
+    blankColorData = ACOColorDataWithComponents((uint16_t[]){ 0.0f, 0.0f, 0.0f, 0.0f });
     sampleColorEntries = @[
         [[ACOColorEntry alloc] initWithName:@"color0" colorSpace:ACOColorSpaceRGB colorData:blankColorData],
         [[ACOColorEntry alloc] initWithName:@"color1" colorSpace:ACOColorSpaceRGB colorData:blankColorData],

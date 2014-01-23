@@ -1,0 +1,1 @@
+../../Mocka/Sources/MCKMockingSyntax.h

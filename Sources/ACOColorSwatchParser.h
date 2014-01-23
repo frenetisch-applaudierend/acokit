@@ -9,12 +9,16 @@
 #import <Foundation/Foundation.h>
 
 
+@class ACOColorEntryParser;
 @class ACOColorSwatch;
 
 
 @interface ACOColorSwatchParser : NSObject
 
 + (instancetype)defaultParser;
+- (instancetype)initWithEntryParser:(ACOColorEntryParser *)entryParser;
+
+@property (nonatomic, readonly) ACOColorEntryParser *entryParser;
 
 - (ACOColorSwatch *)parseColorSwatchFromFileAtURL:(NSURL *)fileURL error:(NSError **)error;
 - (ACOColorSwatch *)parseColorSwatchFromStream:(NSInputStream *)stream error:(NSError **)error;
