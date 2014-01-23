@@ -7,18 +7,19 @@
 //
 
 #import "ACOColorSwatch+UIKit.h"
+#import "ACOColorEntry.h"
 
 
 @implementation ACOColorSwatch (UIKit)
 
 - (UIColor *)colorAtIndex:(NSUInteger)index
 {
-    return nil;
+    return [UIColor colorWithCGColor:[[self colorEntryAtIndex:index] CGColor]];
 }
 
 - (UIColor *)colorForName:(NSString *)name
 {
-    return nil;
+    return [UIColor colorWithCGColor:[[self colorEntryForName:name] CGColor]];
 }
 
 - (UIColor *)objectAtIndexedSubscript:(NSUInteger)idx
