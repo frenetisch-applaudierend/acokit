@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		637E050C1891483400F84063 /* ACOColorEntryParserTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 637E050B1891483400F84063 /* ACOColorEntryParserTest.m */; };
 		637E05111891488700F84063 /* SwatchDataGenerator.m in Sources */ = {isa = PBXBuildFile; fileRef = 637E050E1891488100F84063 /* SwatchDataGenerator.m */; };
+		63955F69189151E600168006 /* ACOColorEntryTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 63955F68189151E600168006 /* ACOColorEntryTest.m */; };
 		63DCD883189057B2000FC071 /* libacokit-ios.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 63DCD86B189057B1000FC071 /* libacokit-ios.a */; };
 		63DCD88B189057B2000FC071 /* ACOKitTests_UIKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD88A189057B2000FC071 /* ACOKitTests_UIKit.m */; };
 		63DCD8991890614D000FC071 /* ACOColorSwatch.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DCD8981890614D000FC071 /* ACOColorSwatch.m */; };
@@ -63,6 +64,7 @@
 		637E050B1891483400F84063 /* ACOColorEntryParserTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ACOColorEntryParserTest.m; sourceTree = "<group>"; };
 		637E050D1891488100F84063 /* SwatchDataGenerator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SwatchDataGenerator.h; sourceTree = "<group>"; };
 		637E050E1891488100F84063 /* SwatchDataGenerator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SwatchDataGenerator.m; sourceTree = "<group>"; };
+		63955F68189151E600168006 /* ACOColorEntryTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ACOColorEntryTest.m; sourceTree = "<group>"; };
 		63DCD86B189057B1000FC071 /* libacokit-ios.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libacokit-ios.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63DCD872189057B1000FC071 /* Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
 		63DCD873189057B1000FC071 /* ACOKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ACOKit.h; sourceTree = "<group>"; };
@@ -204,6 +206,7 @@
 			isa = PBXGroup;
 			children = (
 				63DCD8C118907568000FC071 /* ACOColorSwatchTest.m */,
+				63955F68189151E600168006 /* ACOColorEntryTest.m */,
 				63DCD8D218908099000FC071 /* ACOColorSwatchParserTest.m */,
 				637E050B1891483400F84063 /* ACOColorEntryParserTest.m */,
 			);
@@ -424,6 +427,7 @@
 			files = (
 				63DCD8D318908099000FC071 /* ACOColorSwatchParserTest.m in Sources */,
 				637E05111891488700F84063 /* SwatchDataGenerator.m in Sources */,
+				63955F69189151E600168006 /* ACOColorEntryTest.m in Sources */,
 				637E050C1891483400F84063 /* ACOColorEntryParserTest.m in Sources */,
 				63DCD88B189057B2000FC071 /* ACOKitTests_UIKit.m in Sources */,
 				63DCD8C218907568000FC071 /* ACOColorSwatchTest.m in Sources */,

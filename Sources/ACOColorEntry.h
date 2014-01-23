@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <QuartzCore/QuartzCore.h>
 
 
 /**
@@ -51,5 +52,7 @@ extern ACOColorData ACOColorDataWithGrayscale(uint16_t grayValue);
 @property (nonatomic, readonly) NSString *name;
 @property (nonatomic, readonly) ACOColorSpace colorSpace;
 @property (nonatomic, readonly) ACOColorData colorData;
+@property (nonatomic, readonly) CGColorSpaceRef CGColorSpace;
+@property (nonatomic, readonly) CGColorRef CGColor;
 
 @end
